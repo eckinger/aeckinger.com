@@ -8,6 +8,9 @@ module.exports = {
       colors: {
         'highlight': '#537D8D',
       },
+      fontFamily: {
+        'signika': ['Signika', 'sans-serif'],
+      },
     },
   },
   plugins: [],
