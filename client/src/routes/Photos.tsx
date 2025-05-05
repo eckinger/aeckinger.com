@@ -64,7 +64,7 @@ const PhotoItem: React.FC<{ photo: Photo }> = ({ photo }) => {
   return (
     <div className="overflow-hidden h-min w-full">
       <img
-        src={`https://localhost:5000/photos/${photo.photo_path}`}
+        src={`http://localhost:5000${photo.photo_path}`}
         alt={photo.caption}
         className="block object-cover object-center animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
       />
