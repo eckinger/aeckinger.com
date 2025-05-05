@@ -14,16 +14,16 @@ const Welcome: React.FC = () => {
                 </h1>
                 <div className="flex flex-col items-center space-y-5">
                     <Link to="/photos" className="relative">
-                        <span className={buttonShadowClasses}></span>
-                        <span className={buttonBorderClasses}>Photography</span>
+                        <span className="btn-shadow"></span>
+                        <span className="btn-main">Photography</span>
                     </Link>
                     <a href="https://www.goodreads.com/eckinger" className="relative">
-                        <span className={buttonShadowClasses}></span>
-                        <span className={buttonBorderClasses}>Reading</span>
+                        <span className="btn-shadow"></span>
+                        <span className="btn-main">Reading</span>
                     </a>
                     <Link to="/bio" className="relative">
-                        <span className={buttonShadowClasses}></span>
-                        <span className={buttonBorderClasses}>Bio</span>
+                        <span className="btn-shadow"></span>
+                        <span className="btn-main">Bio</span>
                     </Link>
                 </div>
             </div>
