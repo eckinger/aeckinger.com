@@ -10,7 +10,7 @@ const Welcome: React.FC = () => {
         <BaseLayout>
             <div className="min-h-screen flex flex-col items-center">
                 <h1 className="text-4xl font-bold mb-5 mt-40 text-center">
-                    <span className="text-highlight">Alexander Eckinger</span> here. Check out my
+                    <span className="text-highlight">Alexander Eckinger</span>
                 </h1>
                 <div className="flex flex-col items-center space-y-5">
                     <Link to="/photos" className="relative">
