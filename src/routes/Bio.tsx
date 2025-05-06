@@ -17,6 +17,7 @@ const Bio: React.FC = () => {
                     degree in computer science. I'm going to go back home to the SF
                     bay and, at least for the summer, work for an energy startup.
                   </p>
+                  <br></br>
                   <p className="text-1xl text-left max-w-prose font-rubik font-medium">
                     In my free time, I love to rock climb, write cursive, read,
                     hang out with my friends, and slackline. I've recently made
