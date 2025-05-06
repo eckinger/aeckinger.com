@@ -10,10 +10,12 @@ const Welcome: React.FC = () => {
                     <span className="text-highlight font-rubik">Alexander Eckinger</span>
                 </h1>
                 <div className="flex flex-col items-center space-y-5">
-                    <Link to="/photos" className="relative">
+                    {/*
+                      <Link to="/photos" className="relative">
                         <span className="btn-shadow"></span>
                         <span className="btn-main font-rubik">Photography</span>
-                    </Link>
+                      </Link>
+                    */}
                     <a href="https://www.goodreads.com/eckinger" className="relative">
                         <span className="btn-shadow"></span>
                         <span className="btn-main font-rubik">Reading</span>
