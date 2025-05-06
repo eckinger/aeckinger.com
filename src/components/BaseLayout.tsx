@@ -16,7 +16,7 @@ const BaseLayout: React.FC<BaseLayoutProps> = ({ children, showHomeLink = false 
                 <div className="flex gap-5 fixed top-4 left-4 mt-4">
                     <Link to="/" className="relative">
                         <span className="absolute top-o left-0 mt-1 ml-1 h-full w-full rounded bg-black"></span>
-                        <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-bold text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900">
+                        <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-bold text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900 font-rubik font-medium">
                             Return Home
                         </span>
                     </Link>
@@ -28,7 +28,7 @@ const BaseLayout: React.FC<BaseLayoutProps> = ({ children, showHomeLink = false 
             <div className="flex gap-5 fixed bottom-4 left-4">
                 <a href="https://www.alltrails.com/trail/us/arizona/scholz-lake" className="relative">
                     <span className="absolute top-0 left-0 mt-1 ml-1 h-full w-full rounded bg-black"></span>
-                    <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-bold text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900">
+                    <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-bold text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900 font-rubik font-medium">
                         Scholz Lake, Flagstaff
                     </span>
                 </a>
