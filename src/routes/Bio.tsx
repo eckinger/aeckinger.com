@@ -12,13 +12,13 @@ const Bio: React.FC = () => {
               <div className="relative inline-block w-full">
                 <span className="btn-shadow"></span>
                 <span className="btn-main-no-hover">
-                  <p className="text-1xl text-left max-w-prose font-rubik font-medium">
+                  <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                     In June 2025, I graduate from the University of Chicago with a
                     degree in computer science. I'm returning home to the SF bay
                     and, at least for the summer, working for an energy startup.
                   </p>
                   <br></br>
-                  <p className="text-1xl text-left max-w-prose font-rubik font-medium">
+                  <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                     In my free time, I love to rock climb, slackline, write in cursive,
                     read, and hang out with my friends. I've recently made
                     my 2012 kid self proud and rekindled my love for the SF Giants,
@@ -26,7 +26,7 @@ const Bio: React.FC = () => {
                     games too).
                   </p>
                   <br></br>
-                  <p className="text-1xl text-left max-w-prose font-rubik font-medium">
+                  <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                     This website is hosted on my raspberry pi 🥰 and written by me.
                     WIP.
                   </p>
