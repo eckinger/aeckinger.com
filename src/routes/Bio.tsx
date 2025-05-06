@@ -28,9 +28,7 @@ const Bio: React.FC = () => {
                   <br></br>
                   <p className="text-1xl text-left max-w-prose font-rubik font-medium">
                     This website is hosted on my raspberry pi 🥰 and written by me.
-                    I actually had written this whole website, with a functioning photography portfolio, in Haskell/IHP.
-                    After failing to deploy on the rpi, I decided to redo it all in
-                    react/js. So let it be known this is a WIP.
+                    WIP.
                   </p>
                 </span>
               </div>
