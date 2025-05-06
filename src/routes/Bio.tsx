@@ -14,13 +14,13 @@ const Bio: React.FC = () => {
                 <span className="btn-main-no-hover">
                   <p className="text-1xl text-left max-w-prose font-rubik font-medium">
                     In June 2025, I graduate from the University of Chicago with a
-                    degree in computer science. I'm going to go back home to the SF
-                    bay and, at least for the summer, work for an energy startup.
+                    degree in computer science. I'm returning home to the SF bay
+                    and, at least for the summer, working for an energy startup.
                   </p>
                   <br></br>
                   <p className="text-1xl text-left max-w-prose font-rubik font-medium">
-                    In my free time, I love to rock climb, write cursive, read,
-                    hang out with my friends, and slackline. I've recently made
+                    In my free time, I love to rock climb, slackline, write in cursive,
+                    read, and hang out with my friends. I've recently made
                     my 2012 kid self proud and rekindled my love for the SF Giants,
                     so I'd like to go to many games this summer (hopefully SJ Giants
                     games too).
