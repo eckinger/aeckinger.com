@@ -10,7 +10,7 @@ module.exports = {
       },
       fontFamily: {
         'signika': ['Signika', 'sans-serif'],
-        'rubik': ['Rubik']
+        'rubik': ['Rubik', 'sans-serif']
       },
     },
   },
