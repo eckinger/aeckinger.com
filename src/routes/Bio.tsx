@@ -27,7 +27,7 @@ const Bio: React.FC = () => {
                   </p>
                   <br></br>
                   <p className="text-1xl text-left max-w-prose font-rubik font-medium">
-                    This website is my latest project–it's hosted on my own raspberry pi
+                    This website is my latest project–it's hosted on my raspberry pi 🥰
                     and written by me. On the to-do list is a dynamic photography
                     portfolio to show off my cool photos and a blog if I feel writing
                     publicly. I actually had written this whole website, with a functioning photography portfolio, in Haskell/IHP.
