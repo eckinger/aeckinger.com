@@ -20,7 +20,7 @@ const BaseLayout: React.FC<BaseLayoutProps> = ({
         <div className="flex gap-5 fixed top-4 left-4 mt-4">
           <Link to="/" className="relative">
             <span className="absolute top-o left-0 mt-1 ml-1 h-full w-full rounded bg-black"></span>
-            <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-bold text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900 font-rubik">
+            <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-medium text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900 font-rubik">
               Return Home
             </span>
           </Link>
@@ -35,7 +35,7 @@ const BaseLayout: React.FC<BaseLayoutProps> = ({
           className="relative"
         >
           <span className="absolute top-0 left-0 mt-1 ml-1 h-full w-full rounded bg-black"></span>
-          <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-bold text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900 font-rubik">
+          <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-medium text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900 font-rubik">
             Scholz Lake, Flagstaff
           </span>
         </a>
