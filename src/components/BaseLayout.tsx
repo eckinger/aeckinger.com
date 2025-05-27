@@ -22,7 +22,7 @@ const BaseLayout: React.FC<BaseLayoutProps> = ({
       style={{ backgroundImage: `url(${backgroundImage})` }}
     >
       {showHomeLink && (
-        <div className="flex gap-5 fixed top-4 left-24 mt-4">
+        <div className="flex gap-5 fixed top-4 left-4 mt-4">
           <Link to="/" className="relative">
             <span className="absolute top-o left-0 mt-1 ml-1 h-full w-full rounded bg-black"></span>
             <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-xs font-medium text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900 font-rubik">
