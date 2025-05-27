@@ -11,6 +11,11 @@ const BaseLayout: React.FC<BaseLayoutProps> = ({
   children,
   showHomeLink = false,
 }) => {
+  var emailEncoded = "YWxleEBhZWNraW5nZXIuY29t";
+  const emailBtn = document.getElementById("contact");
+  if (emailBtn) {
+    emailBtn.setAttribute("href", "mailto:".concat(atob(emailEncoded)));
+  }
   return (
     <div
       className="min-h-screen bg-black bg-cover bg-center"
