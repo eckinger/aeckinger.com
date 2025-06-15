@@ -23,6 +23,7 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
+          port: 2222
           source: "build/*"
           target: "/var/www/aeckinger.com"
           strip_components: 1
