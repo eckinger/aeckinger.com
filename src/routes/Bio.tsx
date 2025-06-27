@@ -15,8 +15,7 @@ const Bio: React.FC = () => {
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                 In June 2025, I graduated from the University of Chicago with a
                 degree in computer science. I'm now home in the SF bay–this
-                summer, I am working for an energy startup. Not sure what comes
-                after lol
+                summer, I am working for an energy startup.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
