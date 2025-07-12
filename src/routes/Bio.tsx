@@ -28,7 +28,6 @@ const Bio: React.FC = () => {
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                 This website is hosted on my raspberry pi 🥰 and written by me.
-                WIP.
               </p>
             </span>
           </div>
