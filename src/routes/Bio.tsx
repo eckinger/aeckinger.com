@@ -16,14 +16,14 @@ const Bio: React.FC = () => {
                 In June 2025, I graduated from the University of Chicago with a
                 degree in computer science. I'm now home in the SF bay–this
                 summer, I am working for an energy startup. It's been a blast so
-                far, and I think I really want to work in energy!
+                far.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                 In my free time, I love to rock climb, lift weights, slackline,
                 write letters and postcards, read, and hang out with my friends.
-                I've recently rekindled my love for the SF + SJ Giants, so I'd
-                like to go to many games this summer.
+                I've recently rekindled my love for the SF + SJ Giants, so one
+                summer goal is to go to many games.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
