@@ -14,9 +14,9 @@ const Bio: React.FC = () => {
             <span className="btn-main-no-hover">
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                 In June 2025, I graduated from the University of Chicago with a
-                degree in computer science. I'm passionate about energy, so this
-                summer I am working for an energy startup that helps utilities and
-                their crewmen tend to outages more swiftly.
+                degree in computer science. I'm passionate about energy, so right
+                now I am working for an energy startup that speeds up outage response
+                for utilities and their crewmen.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
