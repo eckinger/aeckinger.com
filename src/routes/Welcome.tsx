@@ -16,7 +16,7 @@ const Welcome: React.FC = () => {
                         <span className="btn-main font-rubik">Photography</span>
                       </Link>
                     */}
-          <a href="https://photography.aeckinger.com" className="relative">
+          <a href="https://brackishwater.aeckinger.com" className="relative">
             <span className="btn-shadow"></span>
             <span className="btn-main font-rubik">Photography</span>
           </a>
