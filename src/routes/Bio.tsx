@@ -20,9 +20,10 @@ const Bio: React.FC = () => {
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
-                In my free time, I love to rock climb, lift weights, backpack,
-                slackline, write letters and postcards, and read. I also like to
-                watch baseball and take cool photos.
+                I live near San Francisco. In my free time, I love to rock
+                climb, lift weights, backpack, slackline, write letters and
+                postcards, and read. I also like to watch baseball and take cool
+                photos.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
