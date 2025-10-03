@@ -63,10 +63,7 @@ const BaseLayout: React.FC<BaseLayoutProps> = ({
             </svg>
           </span>
         </a>
-        <a
-          href="https://linkedin.com/in/alexandereckinger/"
-          className="relative"
-        >
+        <a href="https://linkedin.com/in/aeckinger/" className="relative">
           <span className="absolute top-0 left-0 mt-0.5 ml-0.5 h-10 w-10 rounded-full bg-black"></span>
           <span className="relative inline-flex items-center justify-center h-10 w-10 rounded-full border-2 border-black bg-white transition duration-100 hover:bg-yellow-400">
             <svg
