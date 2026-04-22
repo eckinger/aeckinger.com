@@ -1,13 +1,21 @@
 const fs = require("fs");
 const path = require("path");
-const { imageSize: sizeOf } = require("image-size");
+const sharp = require("sharp");
 const exifr = require("exifr");
 
-// Corrected paths for your /src/scripts/ layout
 const galleryDir = path.join(__dirname, "../../public/gallery");
+const optimizedDir = path.join(__dirname, "../../public/gallery-optimized");
+const thumbDir = path.join(__dirname, "../../public/gallery-thumbs");
 const outputFile = path.join(__dirname, "../gallery-data.json");
 
+const MAX_WIDTH = 1800;
+const THUMB_WIDTH = 600;
+const QUALITY = 82;
+
 async function generateGallery() {
+  fs.mkdirSync(optimizedDir, { recursive: true });
+  fs.mkdirSync(thumbDir, { recursive: true });
+
   const files = fs
     .readdirSync(galleryDir)
     .filter((file) => /\.(jpg|jpeg|png|webp)$/i.test(file));
@@ -15,41 +23,50 @@ async function generateGallery() {
   const data = await Promise.all(
     files.map(async (file) => {
       const filePath = path.join(galleryDir, file);
-      const stats = fs.statSync(filePath);
+      const baseName = path.parse(file).name;
+      const outName = `${baseName}.webp`;
 
+      // Read EXIF before sharp (which strips it)
       const buffer = fs.readFileSync(filePath);
-      const dimensions = sizeOf(buffer);
-
+      const stats = fs.statSync(filePath);
       let dateTaken;
-      let orientation = 1;
       try {
         const metadata = await exifr.parse(buffer, {
-          pick: ["DateTimeOriginal", "Orientation"],
-          translateValues: false,
+          pick: ["DateTimeOriginal"],
         });
         dateTaken = metadata?.DateTimeOriginal || stats.birthtime;
-        orientation = metadata?.Orientation ?? 1;
-      } catch (e) {
-        console.warn(`Could not read EXIF for ${file}, using file date.`);
+      } catch {
         dateTaken = stats.birthtime;
       }
 
-      const rotated = [5, 6, 7, 8].includes(orientation);
+      // Generate full-size optimized WebP
+      const image = sharp(filePath).rotate(); // auto-rotate via EXIF
+      const { width, height } = await image
+        .resize({ width: MAX_WIDTH, withoutEnlargement: true })
+        .webp({ quality: QUALITY })
+        .toFile(path.join(optimizedDir, outName))
+        .then((info) => info);
+
+      // Generate thumbnail
+      await sharp(filePath)
+        .rotate()
+        .resize({ width: THUMB_WIDTH, withoutEnlargement: true })
+        .webp({ quality: 75 })
+        .toFile(path.join(thumbDir, outName));
 
       return {
-        src: `/gallery/${file}`,
-        width: rotated ? dimensions.height : dimensions.width,
-        height: rotated ? dimensions.width : dimensions.height,
+        src: `/gallery-optimized/${outName}`,
+        thumb: `/gallery-thumbs/${outName}`,
+        width,
+        height,
         date: new Date(dateTaken).getTime(),
       };
     }),
   );
 
-  // Sort by date taken (Newest first)
   data.sort((a, b) => b.date - a.date);
-
   fs.writeFileSync(outputFile, JSON.stringify(data, null, 2));
-  console.log(`✅ Success! ${data.length} photos sorted by capture date.`);
+  console.log(`✅ ${data.length} photos optimized and sorted.`);
 }
 
 generateGallery();
