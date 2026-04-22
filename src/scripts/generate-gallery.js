@@ -17,24 +17,29 @@ async function generateGallery() {
       const filePath = path.join(galleryDir, file);
       const stats = fs.statSync(filePath);
 
-      // Read file into a buffer to avoid the TypeError
       const buffer = fs.readFileSync(filePath);
       const dimensions = sizeOf(buffer);
 
-      // Extract EXIF data
       let dateTaken;
+      let orientation = 1;
       try {
-        const metadata = await exifr.parse(buffer); // Use the buffer here too!
+        const metadata = await exifr.parse(buffer, {
+          pick: ["DateTimeOriginal", "Orientation"],
+          translateValues: false,
+        });
         dateTaken = metadata?.DateTimeOriginal || stats.birthtime;
+        orientation = metadata?.Orientation ?? 1;
       } catch (e) {
         console.warn(`Could not read EXIF for ${file}, using file date.`);
         dateTaken = stats.birthtime;
       }
 
+      const rotated = [5, 6, 7, 8].includes(orientation);
+
       return {
         src: `/gallery/${file}`,
-        width: dimensions.width,
-        height: dimensions.height,
+        width: rotated ? dimensions.height : dimensions.width,
+        height: rotated ? dimensions.width : dimensions.height,
         date: new Date(dateTaken).getTime(),
       };
     }),

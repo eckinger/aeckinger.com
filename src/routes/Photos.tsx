@@ -23,8 +23,6 @@ const Photos: React.FC = () => {
             {/* Added w-full here */}
             <span className="btn-shadow"></span>
             <div className="bg-white p-4 rounded-sm border-2 border-black relative h-[70vh] overflow-y-scroll custom-scrollbar w-full">
-              {" "}
-              {/* Added w-full here */}
               <MasonryPhotoAlbum
                 photos={photos}
                 columns={(containerWidth) => {
