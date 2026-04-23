@@ -8,8 +8,8 @@ const optimizedDir = path.join(__dirname, "../../public/gallery-optimized");
 const thumbDir = path.join(__dirname, "../../public/gallery-thumbs");
 const outputFile = path.join(__dirname, "../gallery-data.json");
 
-const MAX_WIDTH = 1800;
-const THUMB_WIDTH = 600;
+const MAX_WIDTH = 3200;
+const THUMB_WIDTH = 1800;
 const QUALITY = 82;
 
 async function generateGallery() {

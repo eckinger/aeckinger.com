@@ -7,6 +7,9 @@ import "yet-another-react-lightbox/styles.css";
 
 import photos from "../gallery-data.json";
 
+const galleryPhotos = photos.map((p) => ({ ...p, src: p.thumb }));
+const lightboxSlides = photos.map((p) => ({ src: p.src }));
+
 const photoHoverStyles = `
   .photo-gallery-wrapper [data-testid="photo"],
   .photo-gallery-wrapper img {
@@ -48,7 +51,7 @@ const Photos: React.FC = () => {
             <div className="bg-white p-2 md:p-4 rounded-sm border-2 border-black relative h-[70vh] md:h-[80vh] overflow-y-scroll custom-scrollbar w-full">
               <div className="photo-gallery-wrapper">
                 <MasonryPhotoAlbum
-                  photos={photos}
+                  photos={galleryPhotos}
                   columns={(containerWidth) => {
                     if (containerWidth < 600) return 2;
                     if (containerWidth < 900) return 3;
@@ -63,7 +66,7 @@ const Photos: React.FC = () => {
         </div>
 
         <Lightbox
-          slides={photos}
+          slides={lightboxSlides}
           open={index >= 0}
           index={index}
           close={() => setIndex(-1)}
