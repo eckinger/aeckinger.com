@@ -24,4 +24,3 @@ yarn-error.log*
 
 public/gallery/*
 !public/gallery/.gitkeep
-src/gallery-data.json
