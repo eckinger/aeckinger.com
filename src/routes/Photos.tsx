@@ -26,7 +26,7 @@ const Photos: React.FC = () => {
               <MasonryPhotoAlbum
                 photos={photos}
                 columns={(containerWidth) => {
-                  if (containerWidth < 500) return 2;
+                  if (containerWidth < 600) return 2;
                   if (containerWidth < 900) return 3;
                   return 4;
                 }}
