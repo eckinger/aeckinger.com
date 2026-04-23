@@ -161,13 +161,6 @@
     "date": 1746945930000
   },
   {
-    "src": "/gallery-optimized/4584ED4B-E9B6-40A0-BD90-71DDBE88DE9D_1_105_c.webp",
-    "thumb": "/gallery-thumbs/4584ED4B-E9B6-40A0-BD90-71DDBE88DE9D_1_105_c.webp",
-    "width": 1024,
-    "height": 768,
-    "date": 1745715818000
-  },
-  {
     "src": "/gallery-optimized/IMG_1808.webp",
     "thumb": "/gallery-thumbs/IMG_1808.webp",
     "width": 1800,
@@ -182,8 +175,8 @@
     "date": 1743980013000
   },
   {
-    "src": "/gallery-optimized/IMG_0893_Original.webp",
-    "thumb": "/gallery-thumbs/IMG_0893_Original.webp",
+    "src": "/gallery-optimized/IMG_0893.webp",
+    "thumb": "/gallery-thumbs/IMG_0893.webp",
     "width": 1800,
     "height": 2400,
     "date": 1743980013000
