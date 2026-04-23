@@ -7,6 +7,13 @@
     "date": 1776556390000
   },
   {
+    "src": "/gallery-optimized/IMG_5365.webp",
+    "thumb": "/gallery-thumbs/IMG_5365.webp",
+    "width": 3200,
+    "height": 4800,
+    "date": 1773944820000
+  },
+  {
     "src": "/gallery-optimized/dji_mimo_20260311_192730_20260311192731_1773284108011_photo.webp",
     "thumb": "/gallery-thumbs/dji_mimo_20260311_192730_20260311192731_1773284108011_photo.webp",
     "width": 3200,
@@ -224,11 +231,11 @@
     "date": 1742599014000
   },
   {
-    "src": "/gallery-optimized/IMG_3326.webp",
-    "thumb": "/gallery-thumbs/IMG_3326.webp",
+    "src": "/gallery-optimized/IMG_3327.webp",
+    "thumb": "/gallery-thumbs/IMG_3327.webp",
     "width": 3200,
     "height": 2133,
-    "date": 1742503116000
+    "date": 1742503131000
   },
   {
     "src": "/gallery-optimized/IMG_3266.webp",
@@ -250,6 +257,13 @@
     "width": 3200,
     "height": 2133,
     "date": 1742345283000
+  },
+  {
+    "src": "/gallery-optimized/IMG_3079.webp",
+    "thumb": "/gallery-thumbs/IMG_3079.webp",
+    "width": 3200,
+    "height": 2133,
+    "date": 1742344924000
   },
   {
     "src": "/gallery-optimized/IMG_2967.webp",
