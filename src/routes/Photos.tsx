@@ -7,11 +7,34 @@ import "yet-another-react-lightbox/styles.css";
 
 import photos from "../gallery-data.json";
 
+const photoHoverStyles = `
+  .photo-gallery-wrapper [data-testid="photo"],
+  .photo-gallery-wrapper img {
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    cursor: zoom-in;
+  }
+  .photo-gallery-wrapper [data-testid="photo"]:hover img,
+  .photo-gallery-wrapper a:hover img,
+  .photo-gallery-wrapper button:hover img,
+  .photo-gallery-wrapper div[role="button"]:hover img {
+    transform: scale(1.03);
+    opacity: 0.88;
+  }
+  .photo-gallery-wrapper [data-testid="photo"],
+  .photo-gallery-wrapper a,
+  .photo-gallery-wrapper button,
+  .photo-gallery-wrapper div[role="button"] {
+    cursor: zoom-in !important;
+    overflow: hidden;
+  }
+`;
+
 const Photos: React.FC = () => {
   const [index, setIndex] = useState(-1);
 
   return (
     <BaseLayout showHomeLink={true}>
+      <style>{photoHoverStyles}</style>
       <div className="h-screen overflow-hidden flex flex-col items-center">
         <h1 className="text-4xl font-bold mb-5 mt-10 text-center font-rubik">
           <span className="text-highlight">Gallery</span>
@@ -23,26 +46,18 @@ const Photos: React.FC = () => {
             {/* Added w-full here */}
             <span className="btn-shadow"></span>
             <div className="bg-white p-2 md:p-4 rounded-sm border-2 border-black relative h-[70vh] md:h-[80vh] overflow-y-scroll custom-scrollbar w-full">
-              <MasonryPhotoAlbum
-                photos={photos}
-                columns={(containerWidth) => {
-                  if (containerWidth < 600) return 2;
-                  if (containerWidth < 900) return 3;
-                  return 4;
-                }}
-                spacing={7}
-                onClick={({ index }) => setIndex(index)}
-                renderPhoto={({ photo, wrapperStyle, renderDefaultPhoto }) => (
-                  <div
-                    style={wrapperStyle}
-                    className="overflow-hidden group cursor-pointer"
-                  >
-                    <div className="transition-transform duration-300 ease-in-out group-hover:scale-[1.03]">
-                      {renderDefaultPhoto({ wrapped: true })}
-                    </div>
-                  </div>
-                )}
-              />
+              <div className="photo-gallery-wrapper">
+                <MasonryPhotoAlbum
+                  photos={photos}
+                  columns={(containerWidth) => {
+                    if (containerWidth < 600) return 2;
+                    if (containerWidth < 900) return 3;
+                    return 4;
+                  }}
+                  spacing={7}
+                  onClick={({ index }) => setIndex(index)}
+                />
+              </div>
             </div>
           </div>
         </div>
