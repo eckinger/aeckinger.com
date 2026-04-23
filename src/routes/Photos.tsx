@@ -13,7 +13,7 @@ const Photos: React.FC = () => {
   return (
     <BaseLayout showHomeLink={true}>
       <div className="h-screen overflow-hidden flex flex-col items-center">
-        <h1 className="text-4xl font-bold mb-5 mt-20 text-center font-rubik">
+        <h1 className="text-4xl font-bold mb-5 mt-10 text-center font-rubik">
           <span className="text-highlight">Gallery</span>
         </h1>
 
