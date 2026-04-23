@@ -30,8 +30,18 @@ const Photos: React.FC = () => {
                   if (containerWidth < 900) return 3;
                   return 4;
                 }}
-                spacing={5}
+                spacing={7}
                 onClick={({ index }) => setIndex(index)}
+                renderPhoto={({ photo, wrapperStyle, renderDefaultPhoto }) => (
+                  <div
+                    style={wrapperStyle}
+                    className="overflow-hidden group cursor-pointer"
+                  >
+                    <div className="transition-transform duration-300 ease-in-out group-hover:scale-[1.03]">
+                      {renderDefaultPhoto({ wrapped: true })}
+                    </div>
+                  </div>
+                )}
               />
             </div>
           </div>
