@@ -22,13 +22,13 @@ const Photos: React.FC = () => {
             {" "}
             {/* Added w-full here */}
             <span className="btn-shadow"></span>
-            <div className="bg-white p-4 rounded-sm border-2 border-black relative h-[80vh] overflow-y-scroll custom-scrollbar w-full">
+            <div className="bg-white p-4 rounded-sm border-2 border-black relative h-[60vh] md:h-[80vh] overflow-y-scroll custom-scrollbar w-full">
               <MasonryPhotoAlbum
                 photos={photos}
                 columns={(containerWidth) => {
-                  if (containerWidth < 500) return 1;
-                  if (containerWidth < 900) return 2;
-                  return 3;
+                  if (containerWidth < 500) return 2;
+                  if (containerWidth < 900) return 3;
+                  return 4;
                 }}
                 spacing={10}
                 onClick={({ index }) => setIndex(index)}
