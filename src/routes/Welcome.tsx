@@ -12,7 +12,7 @@ const Welcome: React.FC = () => {
         <div className="flex flex-col items-center space-y-5">
           <Link to="/photos" className="relative">
             <span className="btn-shadow"></span>
-            <span className="btn-main font-rubik">Photography</span>
+            <span className="btn-main font-rubik">Photos</span>
           </Link>
           <a href="https://www.goodreads.com/eckinger" className="relative">
             <span className="btn-shadow"></span>
