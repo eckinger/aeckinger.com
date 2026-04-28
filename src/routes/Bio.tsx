@@ -16,14 +16,15 @@ const Bio: React.FC = () => {
                 In June 2025, I graduated from the University of Chicago. I'm
                 passionate about energy, so right now I'm working for a small
                 energy company that speeds up outage response for utilities and
-                their crewmen.
+                their crewmen. We also consult for utilities, governments, and
+                developers on DERs, microgrids, NWA cost-benefit analyses, and
+                more.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
-                I have returned to San Francisco from Chicago. In my free time,
-                I love to rock climb, lift weights, backpack, slackline, write
-                letters and postcards, and read. I also like to watch baseball
-                and take cool photos.
+                I have returned to the SF Bay from Chicago. In my free time, I
+                rock climb, take photos, lift weights, backpack, slackline,
+                write letters and postcards, and read.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
