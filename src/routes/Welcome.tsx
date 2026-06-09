@@ -14,10 +14,10 @@ const Welcome: React.FC = () => {
             <span className="btn-shadow"></span>
             <span className="btn-main font-rubik">Photos</span>
           </Link>
-          <a href="https://www.goodreads.com/eckinger" className="relative">
+          <Link to="/reading" className="relative">
             <span className="btn-shadow"></span>
             <span className="btn-main font-rubik">Reading</span>
-          </a>
+          </Link>
           <Link to="/bio" className="relative">
             <span className="btn-shadow"></span>
             <span className="btn-main font-rubik">Bio</span>
