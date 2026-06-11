@@ -2,7 +2,6 @@ import React from "react";
 import BaseLayout from "../components/BaseLayout";
 import rawBookData from "../gallery-data-books.json";
 
-// 1. Explicitly define the structure of your book data
 interface Book {
   title: string;
   author: string;
@@ -17,7 +16,6 @@ interface BookDataStructure {
   read: Book[];
 }
 
-// 2. Cast the raw JSON import to your explicit type to stop TS from inferring 'never[]'
 const bookData = rawBookData as BookDataStructure;
 
 const hoverStyles = `
@@ -36,6 +34,17 @@ const Reading: React.FC = () => {
     },
     {},
   );
+
+  // Sort books within each year section by date finished (latest on top)
+  Object.keys(groupedBooks).forEach((year) => {
+    if (year !== "Prior") {
+      groupedBooks[year].sort((a, b) => {
+        const dateA = new Date(`${a.dateFinished}, ${year}`).getTime();
+        const dateB = new Date(`${b.dateFinished}, ${year}`).getTime();
+        return dateB - dateA; // Descending order: higher timestamp (latest) first
+      });
+    }
+  });
 
   // Sort years descending
   const sortedYears = Object.keys(groupedBooks).sort((a, b) => {
