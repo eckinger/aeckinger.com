@@ -1,6 +1,24 @@
 import React from "react";
 import BaseLayout from "../components/BaseLayout";
-import bookData from "../gallery-data-books.json";
+import rawBookData from "../gallery-data-books.json";
+
+// 1. Explicitly define the structure of your book data
+interface Book {
+  title: string;
+  author: string;
+  link: string;
+  rating: number;
+  dateFinished: string;
+  yearFinished: string;
+}
+
+interface BookDataStructure {
+  currentlyReading: Book[];
+  read: Book[];
+}
+
+// 2. Cast the raw JSON import to your explicit type to stop TS from inferring 'never[]'
+const bookData = rawBookData as BookDataStructure;
 
 const hoverStyles = `
   .book-row { transition: background-color 0.1s ease; }
@@ -10,7 +28,7 @@ const hoverStyles = `
 const Reading: React.FC = () => {
   // Group finished books by year
   const groupedBooks = bookData.read.reduce(
-    (groups: Record<string, typeof bookData.read>, book) => {
+    (groups: Record<string, Book[]>, book) => {
       const year = book.yearFinished || "Prior";
       if (!groups[year]) groups[year] = [];
       groups[year].push(book);

@@ -25,7 +25,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "prebuild": "mkdir -p src && touch src/gallery-data-books.json && node src/scripts/fetch-books.js",
+    "prebuild": "mkdir -p src && node src/scripts/fetch-books.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

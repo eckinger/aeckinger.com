@@ -78,11 +78,20 @@ function fetchFeed(url) {
   return new Promise((resolve) => {
     https
       .get(url, { headers: { "User-Agent": "Mozilla/5.0" } }, (res) => {
+        // Handle HTTP errors (e.g., 403 Forbidden from Goodreads)
+        if (res.statusCode < 200 || res.statusCode >= 300) {
+          console.warn(`Failed to fetch ${url}: Status ${res.statusCode}`);
+          return resolve([]);
+        }
+
         let data = "";
         res.on("data", (chunk) => (data += chunk));
         res.on("end", () => resolve(parseRSS(data)));
       })
-      .on("error", () => resolve([]));
+      .on("error", (err) => {
+        console.error(`Network error on ${url}:`, err.message);
+        resolve([]);
+      });
   });
 }
 
