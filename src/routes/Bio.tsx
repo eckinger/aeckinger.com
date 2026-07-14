@@ -13,18 +13,16 @@ const Bio: React.FC = () => {
             <span className="btn-shadow"></span>
             <span className="btn-main-no-hover">
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
-                In June 2025, I graduated from the University of Chicago. I'm
-                passionate about energy, so right now I'm working for a small
-                energy company that speeds up outage response for utilities and
-                their crewmen. We also consult for utilities, governments, and
-                developers on DERs, microgrids, NWA cost-benefit analyses, and
-                more.
+                I work for a small energy company that speeds up outage response
+                for utilities and their crewmen. We also consult for utilities,
+                governments, and developers on DERs, microgrids, NWA cost-benefit
+                analyses, and more.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
-                I have returned to the SF Bay from Chicago. In my free time, I
-                rock climb, take photos, lift weights, backpack, slackline,
-                write letters and postcards, and read.
+                After four happy years living in Chicago, I now live in Oakland, CA.
+                In my free time, I rock climb, take photos, lift weights, backpack,
+                trail run, slackline, fish, write letters and postcards, and read.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
