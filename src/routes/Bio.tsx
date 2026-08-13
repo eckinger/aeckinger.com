@@ -22,7 +22,7 @@ const Bio: React.FC = () => {
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                 I live in the San Francisco Bay Area. In my free time, I rock
                 climb, take photos, lift weights, backpack, trail run,
-                slackline, fish, write letters and postcards, and read.
+                and read.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
