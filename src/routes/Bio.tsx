@@ -14,7 +14,7 @@ const Bio: React.FC = () => {
             <span className="btn-main-no-hover">
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
                 I work in energy consulting for GridCo Partners, where we help utilities,
-                governments, and developers with DERs, interconnection, microgrids,
+                governments, and developers with DERs, V2G, interconnection, microgrids,
                 NWA cost-benefit analyses, and more.
               </p>
               <br></br>
