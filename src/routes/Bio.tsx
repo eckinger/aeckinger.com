@@ -19,7 +19,7 @@ const Bio: React.FC = () => {
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
-                I live in Oakland. In my free time, I rock climb, take photos, lift
+                I live in Oakland. In my free time, I climb, take photos, lift
                 weights, backpack, trail run, and read.
               </p>
               <br></br>
