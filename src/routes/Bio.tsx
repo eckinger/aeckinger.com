@@ -13,16 +13,14 @@ const Bio: React.FC = () => {
             <span className="btn-shadow"></span>
             <span className="btn-main-no-hover">
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
-                I work for GridCo, a small energy company that speeds up outage
-                response for utilities and their crewmen. We also consult for
-                utilities, governments, and developers on DERs, microgrids, NWA
-                cost-benefit analyses, and more.
+                I work in energy consulting for GridCo Partners, where we help utilities,
+                governments, and developers with DERs, interconnection, microgrids,
+                NWA cost-benefit analyses, and more.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
-                I live in the San Francisco Bay Area. In my free time, I rock
-                climb, take photos, lift weights, backpack, trail run,
-                and read.
+                I live in Oakland. In my free time, I rock climb, take photos, lift
+                weights, backpack, trail run, and read.
               </p>
               <br></br>
               <p className="text-1xl text-left max-w-prose font-rubik font-normal">
