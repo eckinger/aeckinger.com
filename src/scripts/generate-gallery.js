@@ -7,12 +7,57 @@ const galleryDir = path.join(__dirname, "../../public/gallery");
 const optimizedDir = path.join(__dirname, "../../public/gallery-optimized");
 const thumbDir = path.join(__dirname, "../../public/gallery-thumbs");
 const outputFile = path.join(__dirname, "../gallery-data.json");
+const cacheFile = path.join(__dirname, "../.gallery-cache.json");
 
 const MAX_WIDTH = 3200;
 const THUMB_WIDTH = 1800;
 const QUALITY = 82;
 
-async function processFile(file) {
+// Load previous cache to detect changed files
+function loadCache() {
+  try {
+    if (fs.existsSync(cacheFile)) {
+      return JSON.parse(fs.readFileSync(cacheFile, "utf8"));
+    }
+  } catch (err) {
+    console.warn("⚠️  Could not load cache, will regenerate all files");
+  }
+  return {};
+}
+
+// Save cache for next run
+function saveCache(cache) {
+  try {
+    fs.writeFileSync(cacheFile, JSON.stringify(cache, null, 2));
+  } catch (err) {
+    console.warn("⚠️  Could not save cache");
+  }
+}
+
+// Check if a source file has been modified since last run
+function isFileChanged(file, sourceStats, cache) {
+  const cacheEntry = cache[file];
+  if (!cacheEntry) return true; // New file
+
+  // Compare mtime (modification time)
+  const currentMtime = sourceStats.mtimeMs;
+  if (cacheEntry.mtime !== currentMtime) {
+    return true; // Source file was modified
+  }
+
+  // Verify output files still exist
+  const outName = `${path.parse(file).name}.webp`;
+  const optimizedPath = path.join(optimizedDir, outName);
+  const thumbPath = path.join(thumbDir, outName);
+
+  if (!fs.existsSync(optimizedPath) || !fs.existsSync(thumbPath)) {
+    return true; // Output files were deleted
+  }
+
+  return false; // No changes detected
+}
+
+async function processFile(file, cache, changedFiles) {
   const filePath = path.join(galleryDir, file);
   const baseName = path.parse(file).name;
   const outName = `${baseName}.webp`;
@@ -23,6 +68,15 @@ async function processFile(file) {
     if (!fs.existsSync(filePath)) {
       throw new Error(`File disappeared during processing: ${file}`);
     }
+
+    // Check if file has changed
+    if (!isFileChanged(file, stats, cache)) {
+      console.log(`  ⏭️  ${file} (unchanged, skipped)`);
+      // Still return cached data
+      return cache[file].data;
+    }
+
+    changedFiles.push(file);
 
     // Read file into buffer
     let buffer;
@@ -85,17 +139,25 @@ async function processFile(file) {
       throw new Error(`Failed to create thumbnail: ${err.message}`);
     }
 
-    console.log(`  ✅ ${file} → ${outName} (${width}×${height})`);
-
-    return {
+    const photoData = {
       src: `/gallery-optimized/${outName}`,
       thumb: `/gallery-thumbs/${outName}`,
       width,
       height,
       date: new Date(dateTaken).getTime(),
     };
+
+    // Update cache
+    cache[file] = {
+      mtime: stats.mtimeMs,
+      data: photoData,
+    };
+
+    console.log(`  ✅ ${file} → ${outName} (${width}×${height})`);
+    return photoData;
   } catch (err) {
     console.error(`  ❌ ${file}: ${err.message}`);
+    delete cache[file]; // Remove from cache on error
     return null;
   }
 }
@@ -117,8 +179,16 @@ async function generateGallery() {
     console.log(`>> Processing ${files.length} image(s)...`);
   }
 
+  // Load cache from previous run
+  const cache = loadCache();
+
+  // Track which files changed
+  const changedFiles = [];
+
   // Process all files, collecting results and errors
-  const results = await Promise.all(files.map(processFile));
+  const results = await Promise.all(
+    files.map((file) => processFile(file, cache, changedFiles)),
+  );
 
   // Filter out nulls (failed files)
   const data = results.filter((item) => item !== null);
@@ -137,11 +207,16 @@ async function generateGallery() {
   // Write metadata
   try {
     fs.writeFileSync(outputFile, JSON.stringify(data, null, 2));
-    console.log(`\n✅ ${data.length} photos optimized and sorted.`);
+    console.log(
+      `\n✅ ${data.length} photos in gallery (${changedFiles.length} processed, ${files.length - changedFiles.length} cached).`,
+    );
   } catch (err) {
     console.error(`❌ Failed to write gallery-data.json: ${err.message}`);
     process.exit(1);
   }
+
+  // Save cache for next run
+  saveCache(cache);
 }
 
 generateGallery().catch((err) => {

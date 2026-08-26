@@ -1,5 +1,12 @@
 [
   {
+    "src": "/gallery-optimized/D85_0843.webp",
+    "thumb": "/gallery-thumbs/D85_0843.webp",
+    "width": 3200,
+    "height": 2130,
+    "date": 1787605200000
+  },
+  {
     "src": "/gallery-optimized/IMG_4965.webp",
     "thumb": "/gallery-thumbs/IMG_4965.webp",
     "width": 3200,
@@ -586,12 +593,5 @@
     "width": 3024,
     "height": 2144,
     "date": 1604450371000
-  },
-  {
-    "src": "/gallery-optimized/D85_0843.webp",
-    "thumb": "/gallery-thumbs/D85_0843.webp",
-    "width": 3200,
-    "height": 2130,
-    "date": 1483554920000
   }
 ]
