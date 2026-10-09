@@ -1,10 +1,38 @@
 [
   {
+    "src": "/gallery-optimized/IMG_6892.webp",
+    "thumb": "/gallery-thumbs/IMG_6892.webp",
+    "width": 3024,
+    "height": 4032,
+    "date": 1789325578000
+  },
+  {
+    "src": "/gallery-optimized/IMG_5174.webp",
+    "thumb": "/gallery-thumbs/IMG_5174.webp",
+    "width": 3200,
+    "height": 2133,
+    "date": 1789248077000
+  },
+  {
+    "src": "/gallery-optimized/IMG_0941_Original.webp",
+    "thumb": "/gallery-thumbs/IMG_0941_Original.webp",
+    "width": 3200,
+    "height": 4267,
+    "date": 1788721393000
+  },
+  {
+    "src": "/gallery-optimized/IMG_5098_Original.webp",
+    "thumb": "/gallery-thumbs/IMG_5098_Original.webp",
+    "width": 3200,
+    "height": 2133,
+    "date": 1788635498000
+  },
+  {
     "src": "/gallery-optimized/D85_0843.webp",
     "thumb": "/gallery-thumbs/D85_0843.webp",
     "width": 3200,
     "height": 2130,
-    "date": 1787605200000
+    "date": 1787626800000
   },
   {
     "src": "/gallery-optimized/IMG_4965.webp",
