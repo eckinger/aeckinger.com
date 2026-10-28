@@ -1,0 +1,814 @@
+{
+  "currentlyReading": [
+    {
+      "title": "California Burning: The Fall of Pacific Gas and Electric--and What It Means for America's Power Grid",
+      "author": "Katherine Blunt",
+      "link": "https://www.goodreads.com/book/show/60097415",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    }
+  ],
+  "read": [
+    {
+      "title": "Battle Cry of Freedom: The Civil War Era",
+      "author": "James M. McPherson",
+      "link": "https://www.goodreads.com/book/show/8147859",
+      "rating": 5,
+      "dateFinished": "Feb 5",
+      "yearFinished": "2026"
+    },
+    {
+      "title": "The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron",
+      "author": "Bethany McLean",
+      "link": "https://www.goodreads.com/book/show/113576",
+      "rating": 5,
+      "dateFinished": "Oct 17",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "The Ages of the Investor: A Critical Look at Life-cycle Investing (Investing for Adults)",
+      "author": "William J. Bernstein",
+      "link": "https://www.goodreads.com/book/show/15775307",
+      "rating": 4,
+      "dateFinished": "Oct 13",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "The Electrical Grid: A Nontechnical Guide",
+      "author": "James A. Ketchledge",
+      "link": "https://www.goodreads.com/book/show/208507773",
+      "rating": 4,
+      "dateFinished": "Oct 13",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "The Energy Switch: How Companies and Customers Are Transforming the Electrical Grid and the Future of Power",
+      "author": "Peter Kelly-Detwiler",
+      "link": "https://www.goodreads.com/book/show/57697301",
+      "rating": 3,
+      "dateFinished": "Oct 9",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "The Oil Wars Myth: Petroleum and the Causes of International Conflict",
+      "author": "Emily Meierding",
+      "link": "https://www.goodreads.com/book/show/50084768",
+      "rating": 3,
+      "dateFinished": "May 24",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The New Map: Energy, Climate, and the Clash of Nations",
+      "author": "Daniel Yergin",
+      "link": "https://www.goodreads.com/book/show/51122895",
+      "rating": 3,
+      "dateFinished": "Dec 11",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Cobalt Red: How the Blood of the Congo Powers Our Lives",
+      "author": "Siddharth Kara",
+      "link": "https://www.goodreads.com/book/show/60784614",
+      "rating": 2,
+      "dateFinished": "Aug 8",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Prize: The Epic Quest for Oil, Money & Power",
+      "author": "Daniel Yergin",
+      "link": "https://www.goodreads.com/book/show/19341444",
+      "rating": 5,
+      "dateFinished": "May 12",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Value of Debt in Building Wealth: Creating Your Glide Path to a Healthy Financial L.I.F.E.",
+      "author": "Thomas J. Anderson",
+      "link": "https://www.goodreads.com/book/show/26406937",
+      "rating": 5,
+      "dateFinished": "Sep 9",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+      "author": "George R.R. Martin",
+      "link": "https://www.goodreads.com/book/show/17696662",
+      "rating": 0,
+      "dateFinished": "Sep 30",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "Debt 101: From Interest Rates and Credit Scores to Student Loans and Debt Payoff Strategies, an Essential Primer on Managing Debt",
+      "author": "Michele Cagan",
+      "link": "https://www.goodreads.com/book/show/51086469",
+      "rating": 2,
+      "dateFinished": "Sep 20",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "A Clash of Kings  (A Song of Ice and Fire, #2)",
+      "author": "George R.R. Martin",
+      "link": "https://www.goodreads.com/book/show/10572",
+      "rating": 4,
+      "dateFinished": "Sep 2",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "author": "George R.R. Martin",
+      "link": "https://www.goodreads.com/book/show/13496",
+      "rating": 5,
+      "dateFinished": "Aug 14",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "Lonesome Dove (Lonesome Dove, #1)",
+      "author": "Larry McMurtry",
+      "link": "https://www.goodreads.com/book/show/256008",
+      "rating": 5,
+      "dateFinished": "Jun 13",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "link": "https://www.goodreads.com/book/show/53368275",
+      "rating": 5,
+      "dateFinished": "Apr 27",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "Russia's War: A History of the Soviet Effort, 1941-1945",
+      "author": "Richard Overy",
+      "link": "https://www.goodreads.com/book/show/600045",
+      "rating": 4,
+      "dateFinished": "Mar 10",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "Software Foundations, Volume 1: Logical Foundations",
+      "author": "Benjamin C. Pierce",
+      "link": "https://www.goodreads.com/book/show/36371579",
+      "rating": 0,
+      "dateFinished": "Feb 27",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "Shubeik Lubeik",
+      "author": "Deena Mohamed",
+      "link": "https://www.goodreads.com/book/show/62594914",
+      "rating": 4,
+      "dateFinished": "Jan 17",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "War in European History",
+      "author": "Michael Eliot Howard",
+      "link": "https://www.goodreads.com/book/show/25859",
+      "rating": 4,
+      "dateFinished": "Jan 16",
+      "yearFinished": "2025"
+    },
+    {
+      "title": "American Psycho",
+      "author": "Bret Easton Ellis",
+      "link": "https://www.goodreads.com/book/show/28676",
+      "rating": 5,
+      "dateFinished": "Dec 28",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Freedom's Forge: How American Business Produced Victory in World War II",
+      "author": "Arthur Herman",
+      "link": "https://www.goodreads.com/book/show/13152691",
+      "rating": 4,
+      "dateFinished": "Dec 26",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Stoner",
+      "author": "John  Williams",
+      "link": "https://www.goodreads.com/book/show/166997",
+      "rating": 5,
+      "dateFinished": "Dec 22",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better",
+      "author": "Jennifer Pahlka",
+      "link": "https://www.goodreads.com/book/show/61796680",
+      "rating": 4,
+      "dateFinished": "Dec 21",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Capitalist Realism: Is There No Alternative?",
+      "author": "Mark Fisher",
+      "link": "https://www.goodreads.com/book/show/6763725",
+      "rating": 0,
+      "dateFinished": "Jun 30",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Invisible China: How the Urban-Rural Divide Threatens China’s Rise",
+      "author": "Scott Rozelle",
+      "link": "https://www.goodreads.com/book/show/51941583",
+      "rating": 3,
+      "dateFinished": "Apr 5",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+      "author": "J.D. Vance",
+      "link": "https://www.goodreads.com/book/show/27161156",
+      "rating": 4,
+      "dateFinished": "Dec 20",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream",
+      "author": "Hunter S. Thompson",
+      "link": "https://www.goodreads.com/book/show/7745",
+      "rating": 3,
+      "dateFinished": "Dec 19",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "War with the Newts",
+      "author": "Karel Čapek",
+      "link": "https://www.goodreads.com/book/show/816440",
+      "rating": 5,
+      "dateFinished": "Aug 10",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Eva Luna",
+      "author": "Isabel Allende",
+      "link": "https://www.goodreads.com/book/show/1472747",
+      "rating": 5,
+      "dateFinished": "Dec 18",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "No Country for Old Men",
+      "author": "Cormac McCarthy",
+      "link": "https://www.goodreads.com/book/show/54789386",
+      "rating": 4,
+      "dateFinished": "Dec 13",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Beware of God: Stories",
+      "author": "Shalom Auslander",
+      "link": "https://www.goodreads.com/book/show/50901",
+      "rating": 4,
+      "dateFinished": "Dec 12",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Until August",
+      "author": "Gabriel García Márquez",
+      "link": "https://www.goodreads.com/book/show/199928937",
+      "rating": 4,
+      "dateFinished": "Aug 29",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Daylight War (Demon Cycle, #3)",
+      "author": "Peter V. Brett",
+      "link": "https://www.goodreads.com/book/show/9268487",
+      "rating": 3,
+      "dateFinished": "Nov 21",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "link": "https://www.goodreads.com/book/show/4395",
+      "rating": 5,
+      "dateFinished": "Sep 27",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Desert Spear (The Demon Cycle, #2)",
+      "author": "Peter V. Brett",
+      "link": "https://www.goodreads.com/book/show/6736971",
+      "rating": 4,
+      "dateFinished": "Sep 6",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Silence of the Lambs (Hannibal Lecter, #2)",
+      "author": "Thomas  Harris",
+      "link": "https://www.goodreads.com/book/show/9440817",
+      "rating": 5,
+      "dateFinished": "Aug 21",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Red Dragon (Hannibal Lecter, #1)",
+      "author": "Thomas  Harris",
+      "link": "https://www.goodreads.com/book/show/28877",
+      "rating": 5,
+      "dateFinished": "Aug 16",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Warded Man (Demon Cycle, #1)",
+      "author": "Peter V. Brett",
+      "link": "https://www.goodreads.com/book/show/211207600",
+      "rating": 5,
+      "dateFinished": "Aug 13",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Forever...",
+      "author": "Judy Blume",
+      "link": "https://www.goodreads.com/book/show/16132448",
+      "rating": 3,
+      "dateFinished": "Aug 11",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Eight Dates: Essential Conversations for a Lifetime of Love",
+      "author": "John M. Gottman",
+      "link": "https://www.goodreads.com/book/show/37588679",
+      "rating": 0,
+      "dateFinished": "Aug 1",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Liberalism and Its Discontents",
+      "author": "Francis Fukuyama",
+      "link": "https://www.goodreads.com/book/show/60034859",
+      "rating": 5,
+      "dateFinished": "Jul 14",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Heart Is a Lonely Hunter",
+      "author": "Carson McCullers",
+      "link": "https://www.goodreads.com/book/show/37380",
+      "rating": 4,
+      "dateFinished": "Sep 29",
+      "yearFinished": "2019"
+    },
+    {
+      "title": "The Yiddish Policemen's Union",
+      "author": "Michael Chabon",
+      "link": "https://www.goodreads.com/book/show/1833801",
+      "rating": 4,
+      "dateFinished": "Jul 31",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War",
+      "author": "Raj Shah",
+      "link": "https://www.goodreads.com/book/show/199897959",
+      "rating": 4,
+      "dateFinished": "Jul 22",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Pearl",
+      "author": "John Steinbeck",
+      "link": "https://www.goodreads.com/book/show/5308",
+      "rating": 4,
+      "dateFinished": "Jun 28",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Spies, Lies, and Algorithms: The History and Future of American Intelligence",
+      "author": "Amy B. Zegart",
+      "link": "https://www.goodreads.com/book/show/58598905",
+      "rating": 3,
+      "dateFinished": "Jun 26",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot Díaz",
+      "link": "https://www.goodreads.com/book/show/297673",
+      "rating": 5,
+      "dateFinished": "Sep 16",
+      "yearFinished": "2023"
+    },
+    {
+      "title": "The Internationalists: The Fight to Restore American Foreign Policy After Trump",
+      "author": "Alexander  Ward",
+      "link": "https://www.goodreads.com/book/show/157980019",
+      "rating": 4,
+      "dateFinished": "Jun 21",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "This Is How They Tell Me the World Ends: The Cyberweapons Arms Race",
+      "author": "Nicole Perlroth",
+      "link": "https://www.goodreads.com/book/show/54144854",
+      "rating": 3,
+      "dateFinished": "Jun 16",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "link": "https://www.goodreads.com/book/show/16299",
+      "rating": 4,
+      "dateFinished": "Jun 4",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "author": "Chris   Miller",
+      "link": "https://www.goodreads.com/book/show/60321447",
+      "rating": 5,
+      "dateFinished": "Jun 3",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Handmaid’s Tale (The Handmaid's Tale, #1)",
+      "author": "Margaret Atwood",
+      "link": "https://www.goodreads.com/book/show/38447",
+      "rating": 4,
+      "dateFinished": "May 31",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+      "author": "Kai-Fu Lee",
+      "link": "https://www.goodreads.com/book/show/38242135",
+      "rating": 2,
+      "dateFinished": "May 29",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "If We Burn: The Mass Protest Decade and the Missing Revolution",
+      "author": "Vincent Bevins",
+      "link": "https://www.goodreads.com/book/show/74873821",
+      "rating": 4,
+      "dateFinished": "May 27",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Keeper: A Life of Saving Goals and Achieving Them",
+      "author": "Tim Howard",
+      "link": "https://www.goodreads.com/book/show/23015986",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Between Two Moons",
+      "author": "Aisha Abdel Gawad",
+      "link": "https://www.goodreads.com/book/show/62049182",
+      "rating": 3,
+      "dateFinished": "Mar 30",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "The Lowland",
+      "author": "Jhumpa Lahiri",
+      "link": "https://www.goodreads.com/book/show/17262100",
+      "rating": 4,
+      "dateFinished": "Mar 12",
+      "yearFinished": "2024"
+    },
+    {
+      "title": "To Hell and Back: Europe, 1914-1949",
+      "author": "Ian Kershaw",
+      "link": "https://www.goodreads.com/book/show/24611902",
+      "rating": 4,
+      "dateFinished": "Dec 30",
+      "yearFinished": "2023"
+    },
+    {
+      "title": "The First World War: A Very Short Introduction",
+      "author": "Michael Eliot Howard",
+      "link": "https://www.goodreads.com/book/show/25858",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "When Titans Clashed: How the Red Army Stopped Hitler (Modern War Studies)",
+      "author": "David M. Glantz",
+      "link": "https://www.goodreads.com/book/show/164875",
+      "rating": 4,
+      "dateFinished": "Dec 13",
+      "yearFinished": "2023"
+    },
+    {
+      "title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "link": "https://www.goodreads.com/book/show/18373",
+      "rating": 5,
+      "dateFinished": "Oct 12",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "War is a Force That Gives Us Meaning",
+      "author": "Chris Hedges",
+      "link": "https://www.goodreads.com/book/show/18210765",
+      "rating": 5,
+      "dateFinished": "Aug 2",
+      "yearFinished": "2023"
+    },
+    {
+      "title": "The End of History?",
+      "author": "Francis Fukuyama",
+      "link": "https://www.goodreads.com/book/show/8356475",
+      "rating": 0,
+      "dateFinished": "Dec 31",
+      "yearFinished": "2017"
+    },
+    {
+      "title": "Little Fires Everywhere",
+      "author": "Celeste Ng",
+      "link": "https://www.goodreads.com/book/show/51704136",
+      "rating": 4,
+      "dateFinished": "Dec 16",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Curse of Bigness: Antitrust in the New Gilded Age",
+      "author": "Tim Wu",
+      "link": "https://www.goodreads.com/book/show/40081165",
+      "rating": 3,
+      "dateFinished": "Dec 24",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Mortality",
+      "author": "Christopher Hitchens",
+      "link": "https://www.goodreads.com/book/show/13529055",
+      "rating": 3,
+      "dateFinished": "Oct 23",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Moral Landscape: How Science Can Determine Human Values",
+      "author": "Sam Harris",
+      "link": "https://www.goodreads.com/book/show/7785194",
+      "rating": 2,
+      "dateFinished": "Aug 13",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The End of October",
+      "author": "Lawrence Wright",
+      "link": "https://www.goodreads.com/book/show/52669505",
+      "rating": 4,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Monkey Wrench Gang (Monkey Wrench Gang, #1)",
+      "author": "Edward Abbey",
+      "link": "https://www.goodreads.com/book/show/99208",
+      "rating": 5,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "author": "Erich Maria Remarque",
+      "link": "https://www.goodreads.com/book/show/355697",
+      "rating": 2,
+      "dateFinished": "Dec 14",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Epic of Gilgamesh",
+      "author": "Anonymous",
+      "link": "https://www.goodreads.com/book/show/19351",
+      "rating": 4,
+      "dateFinished": "Oct 3",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "author": "Max Tegmark",
+      "link": "https://www.goodreads.com/book/show/34272565",
+      "rating": 4,
+      "dateFinished": "Jul 7",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "Naked Statistics: Stripping the Dread from the Data",
+      "author": "Charles Wheelan",
+      "link": "https://www.goodreads.com/book/show/17986418",
+      "rating": 3,
+      "dateFinished": "Jul 4",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "Securing Democracy: My Fight for Press Freedom and Justice in Brazil",
+      "author": "Glenn Greenwald",
+      "link": "https://www.goodreads.com/book/show/54750546",
+      "rating": 3,
+      "dateFinished": "Jun 6",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "Maus II: A Survivor's Tale: And Here My Troubles Began (Maus, #2)",
+      "author": "Art Spiegelman",
+      "link": "https://www.goodreads.com/book/show/15197",
+      "rating": 4,
+      "dateFinished": "May 16",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "The Lost World (Jurassic Park, #2)",
+      "author": "Michael Crichton",
+      "link": "https://www.goodreads.com/book/show/8650",
+      "rating": 4,
+      "dateFinished": "May 9",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "Jurassic Park (Jurassic Park, #1)",
+      "author": "Michael Crichton",
+      "link": "https://www.goodreads.com/book/show/40604658",
+      "rating": 4,
+      "dateFinished": "May 6",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "Griftopia: Bubble Machines, Vampire Squids, and the Long Con That Is Breaking America",
+      "author": "Matt Taibbi",
+      "link": "https://www.goodreads.com/book/show/7897556",
+      "rating": 5,
+      "dateFinished": "May 3",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "link": "https://www.goodreads.com/book/show/1852",
+      "rating": 4,
+      "dateFinished": "Apr 25",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "link": "https://www.goodreads.com/book/show/128029",
+      "rating": 5,
+      "dateFinished": "Apr 23",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "A Dirty Job (Grim Reaper, #1)",
+      "author": "Christopher Moore",
+      "link": "https://www.goodreads.com/book/show/33456",
+      "rating": 4,
+      "dateFinished": "Apr 17",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World",
+      "author": "Vincent Bevins",
+      "link": "https://www.goodreads.com/book/show/53054943",
+      "rating": 5,
+      "dateFinished": "Mar 7",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "How to Win at College: Surprising Secrets for Success from the Country's Top Students",
+      "author": "Cal Newport",
+      "link": "https://www.goodreads.com/book/show/253197",
+      "rating": 3,
+      "dateFinished": "Mar 26",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",
+      "author": "Glenn Greenwald",
+      "link": "https://www.goodreads.com/book/show/18213403",
+      "rating": 4,
+      "dateFinished": "Feb 28",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "The Common Good",
+      "author": "Robert B. Reich",
+      "link": "https://www.goodreads.com/book/show/37506435",
+      "rating": 2,
+      "dateFinished": "Feb 26",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "The Looming Tower: Al-Qaeda and the Road to 9/11",
+      "author": "Lawrence Wright",
+      "link": "https://www.goodreads.com/book/show/110890",
+      "rating": 5,
+      "dateFinished": "Feb 18",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "The Rape of Nanking: The Forgotten Holocaust of World War II",
+      "author": "Iris Chang",
+      "link": "https://www.goodreads.com/book/show/95784",
+      "rating": 5,
+      "dateFinished": "Feb 12",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "A Happy Death",
+      "author": "Albert Camus",
+      "link": "https://www.goodreads.com/book/show/15682",
+      "rating": 2,
+      "dateFinished": "Jan 8",
+      "yearFinished": "2021"
+    },
+    {
+      "title": "Chronicle of a Death Foretold",
+      "author": "Gabriel García Márquez",
+      "link": "https://www.goodreads.com/book/show/23878",
+      "rating": 4,
+      "dateFinished": "Dec 28",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Fable of the Dragon-Tyrant",
+      "author": "Nick Bostrom",
+      "link": "https://www.goodreads.com/book/show/20257294",
+      "rating": 5,
+      "dateFinished": "Dec 26",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "link": "https://www.goodreads.com/book/show/41817486",
+      "rating": 2,
+      "dateFinished": "Dec 26",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Turtles All the Way Down",
+      "author": "John  Green",
+      "link": "https://www.goodreads.com/book/show/35504431",
+      "rating": 3,
+      "dateFinished": "Dec 25",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Fun Home: A Family Tragicomic",
+      "author": "Alison Bechdel",
+      "link": "https://www.goodreads.com/book/show/38990",
+      "rating": 3,
+      "dateFinished": "Dec 14",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "link": "https://www.goodreads.com/book/show/320",
+      "rating": 5,
+      "dateFinished": "Dec 13",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Brave New World Revisited",
+      "author": "Aldous Huxley",
+      "link": "https://www.goodreads.com/book/show/5481",
+      "rating": 3,
+      "dateFinished": "Dec 11",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "link": "https://www.goodreads.com/book/show/5129",
+      "rating": 4,
+      "dateFinished": "Dec 10",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "link": "https://www.goodreads.com/book/show/40961427",
+      "rating": 4,
+      "dateFinished": "Nov 4",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Understanding How We Learn: A Visual Guide",
+      "author": "Yana Weinstein",
+      "link": "https://www.goodreads.com/book/show/39230505",
+      "rating": 5,
+      "dateFinished": "Dec 8",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "link": "https://www.goodreads.com/book/show/485894",
+      "rating": 3,
+      "dateFinished": "Dec 7",
+      "yearFinished": "2020"
+    }
+  ]
+}
