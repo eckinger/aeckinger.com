@@ -1,9 +1,9 @@
 {
   "currentlyReading": [
     {
-      "title": "California Burning: The Fall of Pacific Gas and Electric--and What It Means for America's Power Grid",
-      "author": "Katherine Blunt",
-      "link": "https://www.goodreads.com/book/show/60097415",
+      "title": "The Magus",
+      "author": "John Fowles",
+      "link": "https://www.goodreads.com/book/show/16286",
       "rating": 0,
       "dateFinished": "",
       "yearFinished": "Prior"
@@ -11,11 +11,51 @@
   ],
   "read": [
     {
+      "title": "This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life",
+      "author": "David Foster Wallace",
+      "link": "https://www.goodreads.com/book/show/5986375",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Black Hawk Down: A Story of Modern War",
+      "author": "Mark Bowden",
+      "link": "https://www.goodreads.com/book/show/55403",
+      "rating": 5,
+      "dateFinished": "Sep 27",
+      "yearFinished": "2026"
+    },
+    {
+      "title": "Love and Limerence: The Experience of Being in Love",
+      "author": "Dorothy Tennov",
+      "link": "https://www.goodreads.com/book/show/1398830",
+      "rating": 3,
+      "dateFinished": "Aug 11",
+      "yearFinished": "2026"
+    },
+    {
+      "title": "Reading Weather: The Field Guide To Forecasting The Weather (Falcon Guides)",
+      "author": "Jim Woodmencey",
+      "link": "https://www.goodreads.com/book/show/13593039",
+      "rating": 4,
+      "dateFinished": "Jun 10",
+      "yearFinished": "2026"
+    },
+    {
+      "title": "California Burning: The Fall of Pacific Gas and Electric--and What It Means for America's Power Grid",
+      "author": "Katherine Blunt",
+      "link": "https://www.goodreads.com/book/show/60097415",
+      "rating": 4,
+      "dateFinished": "Jun 9",
+      "yearFinished": "2026"
+    },
+    {
       "title": "Battle Cry of Freedom: The Civil War Era",
       "author": "James M. McPherson",
       "link": "https://www.goodreads.com/book/show/8147859",
       "rating": 5,
-      "dateFinished": "Feb 5",
+      "dateFinished": "Feb 6",
       "yearFinished": "2026"
     },
     {
@@ -23,15 +63,15 @@
       "author": "Bethany McLean",
       "link": "https://www.goodreads.com/book/show/113576",
       "rating": 5,
-      "dateFinished": "Oct 17",
-      "yearFinished": "2025"
+      "dateFinished": "Apr 24",
+      "yearFinished": "2020"
     },
     {
       "title": "The Ages of the Investor: A Critical Look at Life-cycle Investing (Investing for Adults)",
       "author": "William J. Bernstein",
       "link": "https://www.goodreads.com/book/show/15775307",
       "rating": 4,
-      "dateFinished": "Oct 13",
+      "dateFinished": "Oct 14",
       "yearFinished": "2025"
     },
     {
@@ -39,7 +79,7 @@
       "author": "James A. Ketchledge",
       "link": "https://www.goodreads.com/book/show/208507773",
       "rating": 4,
-      "dateFinished": "Oct 13",
+      "dateFinished": "Oct 14",
       "yearFinished": "2025"
     },
     {
@@ -47,7 +87,7 @@
       "author": "Peter Kelly-Detwiler",
       "link": "https://www.goodreads.com/book/show/57697301",
       "rating": 3,
-      "dateFinished": "Oct 9",
+      "dateFinished": "Oct 10",
       "yearFinished": "2025"
     },
     {
@@ -55,7 +95,7 @@
       "author": "Emily Meierding",
       "link": "https://www.goodreads.com/book/show/50084768",
       "rating": 3,
-      "dateFinished": "May 24",
+      "dateFinished": "May 25",
       "yearFinished": "2024"
     },
     {
@@ -63,7 +103,7 @@
       "author": "Daniel Yergin",
       "link": "https://www.goodreads.com/book/show/51122895",
       "rating": 3,
-      "dateFinished": "Dec 11",
+      "dateFinished": "Dec 12",
       "yearFinished": "2024"
     },
     {
@@ -71,7 +111,7 @@
       "author": "Siddharth Kara",
       "link": "https://www.goodreads.com/book/show/60784614",
       "rating": 2,
-      "dateFinished": "Aug 8",
+      "dateFinished": "Aug 9",
       "yearFinished": "2024"
     },
     {
@@ -79,7 +119,7 @@
       "author": "Daniel Yergin",
       "link": "https://www.goodreads.com/book/show/19341444",
       "rating": 5,
-      "dateFinished": "May 12",
+      "dateFinished": "May 13",
       "yearFinished": "2024"
     },
     {
@@ -87,7 +127,7 @@
       "author": "Thomas J. Anderson",
       "link": "https://www.goodreads.com/book/show/26406937",
       "rating": 5,
-      "dateFinished": "Sep 9",
+      "dateFinished": "Sep 10",
       "yearFinished": "2025"
     },
     {
@@ -95,7 +135,7 @@
       "author": "George R.R. Martin",
       "link": "https://www.goodreads.com/book/show/17696662",
       "rating": 0,
-      "dateFinished": "Sep 30",
+      "dateFinished": "Oct 1",
       "yearFinished": "2025"
     },
     {
@@ -103,7 +143,7 @@
       "author": "Michele Cagan",
       "link": "https://www.goodreads.com/book/show/51086469",
       "rating": 2,
-      "dateFinished": "Sep 20",
+      "dateFinished": "Sep 21",
       "yearFinished": "2025"
     },
     {
@@ -111,7 +151,7 @@
       "author": "George R.R. Martin",
       "link": "https://www.goodreads.com/book/show/10572",
       "rating": 4,
-      "dateFinished": "Sep 2",
+      "dateFinished": "Sep 3",
       "yearFinished": "2025"
     },
     {
@@ -119,7 +159,7 @@
       "author": "George R.R. Martin",
       "link": "https://www.goodreads.com/book/show/13496",
       "rating": 5,
-      "dateFinished": "Aug 14",
+      "dateFinished": "Aug 15",
       "yearFinished": "2025"
     },
     {
@@ -127,7 +167,7 @@
       "author": "Larry McMurtry",
       "link": "https://www.goodreads.com/book/show/256008",
       "rating": 5,
-      "dateFinished": "Jun 13",
+      "dateFinished": "Jun 14",
       "yearFinished": "2025"
     },
     {
@@ -135,7 +175,7 @@
       "author": "Cormac McCarthy",
       "link": "https://www.goodreads.com/book/show/53368275",
       "rating": 5,
-      "dateFinished": "Apr 27",
+      "dateFinished": "Apr 28",
       "yearFinished": "2025"
     },
     {
@@ -143,7 +183,7 @@
       "author": "Richard Overy",
       "link": "https://www.goodreads.com/book/show/600045",
       "rating": 4,
-      "dateFinished": "Mar 10",
+      "dateFinished": "Mar 11",
       "yearFinished": "2025"
     },
     {
@@ -151,7 +191,7 @@
       "author": "Benjamin C. Pierce",
       "link": "https://www.goodreads.com/book/show/36371579",
       "rating": 0,
-      "dateFinished": "Feb 27",
+      "dateFinished": "Feb 28",
       "yearFinished": "2025"
     },
     {
@@ -159,7 +199,7 @@
       "author": "Deena Mohamed",
       "link": "https://www.goodreads.com/book/show/62594914",
       "rating": 4,
-      "dateFinished": "Jan 17",
+      "dateFinished": "Jan 18",
       "yearFinished": "2025"
     },
     {
@@ -167,7 +207,7 @@
       "author": "Michael Eliot Howard",
       "link": "https://www.goodreads.com/book/show/25859",
       "rating": 4,
-      "dateFinished": "Jan 16",
+      "dateFinished": "Jan 17",
       "yearFinished": "2025"
     },
     {
@@ -175,7 +215,7 @@
       "author": "Bret Easton Ellis",
       "link": "https://www.goodreads.com/book/show/28676",
       "rating": 5,
-      "dateFinished": "Dec 28",
+      "dateFinished": "Dec 29",
       "yearFinished": "2024"
     },
     {
@@ -183,7 +223,7 @@
       "author": "Arthur Herman",
       "link": "https://www.goodreads.com/book/show/13152691",
       "rating": 4,
-      "dateFinished": "Dec 26",
+      "dateFinished": "Dec 27",
       "yearFinished": "2024"
     },
     {
@@ -191,7 +231,7 @@
       "author": "John  Williams",
       "link": "https://www.goodreads.com/book/show/166997",
       "rating": 5,
-      "dateFinished": "Dec 22",
+      "dateFinished": "Dec 23",
       "yearFinished": "2024"
     },
     {
@@ -199,7 +239,7 @@
       "author": "Jennifer Pahlka",
       "link": "https://www.goodreads.com/book/show/61796680",
       "rating": 4,
-      "dateFinished": "Dec 21",
+      "dateFinished": "Dec 22",
       "yearFinished": "2024"
     },
     {
@@ -207,7 +247,7 @@
       "author": "Mark Fisher",
       "link": "https://www.goodreads.com/book/show/6763725",
       "rating": 0,
-      "dateFinished": "Jun 30",
+      "dateFinished": "Jul 1",
       "yearFinished": "2020"
     },
     {
@@ -215,7 +255,7 @@
       "author": "Scott Rozelle",
       "link": "https://www.goodreads.com/book/show/51941583",
       "rating": 3,
-      "dateFinished": "Apr 5",
+      "dateFinished": "Apr 6",
       "yearFinished": "2024"
     },
     {
@@ -223,7 +263,7 @@
       "author": "J.D. Vance",
       "link": "https://www.goodreads.com/book/show/27161156",
       "rating": 4,
-      "dateFinished": "Dec 20",
+      "dateFinished": "Dec 21",
       "yearFinished": "2024"
     },
     {
@@ -231,7 +271,7 @@
       "author": "Hunter S. Thompson",
       "link": "https://www.goodreads.com/book/show/7745",
       "rating": 3,
-      "dateFinished": "Dec 19",
+      "dateFinished": "Dec 20",
       "yearFinished": "2024"
     },
     {
@@ -239,7 +279,7 @@
       "author": "Karel Čapek",
       "link": "https://www.goodreads.com/book/show/816440",
       "rating": 5,
-      "dateFinished": "Aug 10",
+      "dateFinished": "Aug 11",
       "yearFinished": "2024"
     },
     {
@@ -247,7 +287,7 @@
       "author": "Isabel Allende",
       "link": "https://www.goodreads.com/book/show/1472747",
       "rating": 5,
-      "dateFinished": "Dec 18",
+      "dateFinished": "Dec 19",
       "yearFinished": "2024"
     },
     {
@@ -255,7 +295,7 @@
       "author": "Cormac McCarthy",
       "link": "https://www.goodreads.com/book/show/54789386",
       "rating": 4,
-      "dateFinished": "Dec 13",
+      "dateFinished": "Dec 14",
       "yearFinished": "2024"
     },
     {
@@ -263,7 +303,7 @@
       "author": "Shalom Auslander",
       "link": "https://www.goodreads.com/book/show/50901",
       "rating": 4,
-      "dateFinished": "Dec 12",
+      "dateFinished": "Dec 13",
       "yearFinished": "2024"
     },
     {
@@ -271,7 +311,7 @@
       "author": "Gabriel García Márquez",
       "link": "https://www.goodreads.com/book/show/199928937",
       "rating": 4,
-      "dateFinished": "Aug 29",
+      "dateFinished": "Aug 30",
       "yearFinished": "2024"
     },
     {
@@ -279,7 +319,7 @@
       "author": "Peter V. Brett",
       "link": "https://www.goodreads.com/book/show/9268487",
       "rating": 3,
-      "dateFinished": "Nov 21",
+      "dateFinished": "Nov 22",
       "yearFinished": "2024"
     },
     {
@@ -287,7 +327,7 @@
       "author": "John Steinbeck",
       "link": "https://www.goodreads.com/book/show/4395",
       "rating": 5,
-      "dateFinished": "Sep 27",
+      "dateFinished": "Sep 28",
       "yearFinished": "2024"
     },
     {
@@ -295,7 +335,7 @@
       "author": "Peter V. Brett",
       "link": "https://www.goodreads.com/book/show/6736971",
       "rating": 4,
-      "dateFinished": "Sep 6",
+      "dateFinished": "Sep 7",
       "yearFinished": "2024"
     },
     {
@@ -303,7 +343,7 @@
       "author": "Thomas  Harris",
       "link": "https://www.goodreads.com/book/show/9440817",
       "rating": 5,
-      "dateFinished": "Aug 21",
+      "dateFinished": "Aug 22",
       "yearFinished": "2024"
     },
     {
@@ -311,7 +351,7 @@
       "author": "Thomas  Harris",
       "link": "https://www.goodreads.com/book/show/28877",
       "rating": 5,
-      "dateFinished": "Aug 16",
+      "dateFinished": "Aug 17",
       "yearFinished": "2024"
     },
     {
@@ -319,7 +359,7 @@
       "author": "Peter V. Brett",
       "link": "https://www.goodreads.com/book/show/211207600",
       "rating": 5,
-      "dateFinished": "Aug 13",
+      "dateFinished": "Aug 14",
       "yearFinished": "2024"
     },
     {
@@ -327,7 +367,7 @@
       "author": "Judy Blume",
       "link": "https://www.goodreads.com/book/show/16132448",
       "rating": 3,
-      "dateFinished": "Aug 11",
+      "dateFinished": "Aug 12",
       "yearFinished": "2024"
     },
     {
@@ -335,7 +375,7 @@
       "author": "John M. Gottman",
       "link": "https://www.goodreads.com/book/show/37588679",
       "rating": 0,
-      "dateFinished": "Aug 1",
+      "dateFinished": "Aug 2",
       "yearFinished": "2024"
     },
     {
@@ -343,7 +383,7 @@
       "author": "Francis Fukuyama",
       "link": "https://www.goodreads.com/book/show/60034859",
       "rating": 5,
-      "dateFinished": "Jul 14",
+      "dateFinished": "Jul 15",
       "yearFinished": "2024"
     },
     {
@@ -351,7 +391,7 @@
       "author": "Carson McCullers",
       "link": "https://www.goodreads.com/book/show/37380",
       "rating": 4,
-      "dateFinished": "Sep 29",
+      "dateFinished": "Sep 30",
       "yearFinished": "2019"
     },
     {
@@ -359,7 +399,7 @@
       "author": "Michael Chabon",
       "link": "https://www.goodreads.com/book/show/1833801",
       "rating": 4,
-      "dateFinished": "Jul 31",
+      "dateFinished": "Aug 1",
       "yearFinished": "2024"
     },
     {
@@ -367,7 +407,7 @@
       "author": "Raj Shah",
       "link": "https://www.goodreads.com/book/show/199897959",
       "rating": 4,
-      "dateFinished": "Jul 22",
+      "dateFinished": "Jul 23",
       "yearFinished": "2024"
     },
     {
@@ -375,7 +415,7 @@
       "author": "John Steinbeck",
       "link": "https://www.goodreads.com/book/show/5308",
       "rating": 4,
-      "dateFinished": "Jun 28",
+      "dateFinished": "Jun 29",
       "yearFinished": "2024"
     },
     {
@@ -383,7 +423,7 @@
       "author": "Amy B. Zegart",
       "link": "https://www.goodreads.com/book/show/58598905",
       "rating": 3,
-      "dateFinished": "Jun 26",
+      "dateFinished": "Jun 27",
       "yearFinished": "2024"
     },
     {
@@ -391,7 +431,7 @@
       "author": "Junot Díaz",
       "link": "https://www.goodreads.com/book/show/297673",
       "rating": 5,
-      "dateFinished": "Sep 16",
+      "dateFinished": "Sep 17",
       "yearFinished": "2023"
     },
     {
@@ -399,7 +439,7 @@
       "author": "Alexander  Ward",
       "link": "https://www.goodreads.com/book/show/157980019",
       "rating": 4,
-      "dateFinished": "Jun 21",
+      "dateFinished": "Jun 22",
       "yearFinished": "2024"
     },
     {
@@ -407,7 +447,7 @@
       "author": "Nicole Perlroth",
       "link": "https://www.goodreads.com/book/show/54144854",
       "rating": 3,
-      "dateFinished": "Jun 16",
+      "dateFinished": "Jun 17",
       "yearFinished": "2024"
     },
     {
@@ -415,7 +455,7 @@
       "author": "Agatha Christie",
       "link": "https://www.goodreads.com/book/show/16299",
       "rating": 4,
-      "dateFinished": "Jun 4",
+      "dateFinished": "Jun 5",
       "yearFinished": "2024"
     },
     {
@@ -423,7 +463,7 @@
       "author": "Chris   Miller",
       "link": "https://www.goodreads.com/book/show/60321447",
       "rating": 5,
-      "dateFinished": "Jun 3",
+      "dateFinished": "Jun 4",
       "yearFinished": "2024"
     },
     {
@@ -431,7 +471,7 @@
       "author": "Margaret Atwood",
       "link": "https://www.goodreads.com/book/show/38447",
       "rating": 4,
-      "dateFinished": "May 31",
+      "dateFinished": "Jun 1",
       "yearFinished": "2024"
     },
     {
@@ -439,7 +479,7 @@
       "author": "Kai-Fu Lee",
       "link": "https://www.goodreads.com/book/show/38242135",
       "rating": 2,
-      "dateFinished": "May 29",
+      "dateFinished": "May 30",
       "yearFinished": "2024"
     },
     {
@@ -447,7 +487,7 @@
       "author": "Vincent Bevins",
       "link": "https://www.goodreads.com/book/show/74873821",
       "rating": 4,
-      "dateFinished": "May 27",
+      "dateFinished": "May 28",
       "yearFinished": "2024"
     },
     {
@@ -463,7 +503,7 @@
       "author": "Aisha Abdel Gawad",
       "link": "https://www.goodreads.com/book/show/62049182",
       "rating": 3,
-      "dateFinished": "Mar 30",
+      "dateFinished": "Mar 31",
       "yearFinished": "2024"
     },
     {
@@ -471,7 +511,7 @@
       "author": "Jhumpa Lahiri",
       "link": "https://www.goodreads.com/book/show/17262100",
       "rating": 4,
-      "dateFinished": "Mar 12",
+      "dateFinished": "Mar 13",
       "yearFinished": "2024"
     },
     {
@@ -479,7 +519,7 @@
       "author": "Ian Kershaw",
       "link": "https://www.goodreads.com/book/show/24611902",
       "rating": 4,
-      "dateFinished": "Dec 30",
+      "dateFinished": "Dec 31",
       "yearFinished": "2023"
     },
     {
@@ -495,7 +535,7 @@
       "author": "David M. Glantz",
       "link": "https://www.goodreads.com/book/show/164875",
       "rating": 4,
-      "dateFinished": "Dec 13",
+      "dateFinished": "Dec 14",
       "yearFinished": "2023"
     },
     {
@@ -503,7 +543,7 @@
       "author": "Daniel Keyes",
       "link": "https://www.goodreads.com/book/show/18373",
       "rating": 5,
-      "dateFinished": "Oct 12",
+      "dateFinished": "Oct 13",
       "yearFinished": "2020"
     },
     {
@@ -511,7 +551,7 @@
       "author": "Chris Hedges",
       "link": "https://www.goodreads.com/book/show/18210765",
       "rating": 5,
-      "dateFinished": "Aug 2",
+      "dateFinished": "Aug 3",
       "yearFinished": "2023"
     },
     {
@@ -519,15 +559,15 @@
       "author": "Francis Fukuyama",
       "link": "https://www.goodreads.com/book/show/8356475",
       "rating": 0,
-      "dateFinished": "Dec 31",
-      "yearFinished": "2017"
+      "dateFinished": "",
+      "yearFinished": "Prior"
     },
     {
       "title": "Little Fires Everywhere",
       "author": "Celeste Ng",
       "link": "https://www.goodreads.com/book/show/51704136",
       "rating": 4,
-      "dateFinished": "Dec 16",
+      "dateFinished": "Dec 17",
       "yearFinished": "2020"
     },
     {
@@ -535,7 +575,7 @@
       "author": "Tim Wu",
       "link": "https://www.goodreads.com/book/show/40081165",
       "rating": 3,
-      "dateFinished": "Dec 24",
+      "dateFinished": "Dec 25",
       "yearFinished": "2020"
     },
     {
@@ -543,7 +583,7 @@
       "author": "Christopher Hitchens",
       "link": "https://www.goodreads.com/book/show/13529055",
       "rating": 3,
-      "dateFinished": "Oct 23",
+      "dateFinished": "Oct 24",
       "yearFinished": "2020"
     },
     {
@@ -551,7 +591,7 @@
       "author": "Sam Harris",
       "link": "https://www.goodreads.com/book/show/7785194",
       "rating": 2,
-      "dateFinished": "Aug 13",
+      "dateFinished": "Aug 14",
       "yearFinished": "2020"
     },
     {
@@ -575,15 +615,15 @@
       "author": "Erich Maria Remarque",
       "link": "https://www.goodreads.com/book/show/355697",
       "rating": 2,
-      "dateFinished": "Dec 14",
+      "dateFinished": "Dec 15",
       "yearFinished": "2020"
     },
     {
       "title": "The Epic of Gilgamesh",
-      "author": "Anonymous",
+      "author": "Unknown",
       "link": "https://www.goodreads.com/book/show/19351",
       "rating": 4,
-      "dateFinished": "Oct 3",
+      "dateFinished": "Oct 4",
       "yearFinished": "2021"
     },
     {
@@ -591,7 +631,7 @@
       "author": "Max Tegmark",
       "link": "https://www.goodreads.com/book/show/34272565",
       "rating": 4,
-      "dateFinished": "Jul 7",
+      "dateFinished": "Jul 8",
       "yearFinished": "2021"
     },
     {
@@ -599,7 +639,7 @@
       "author": "Charles Wheelan",
       "link": "https://www.goodreads.com/book/show/17986418",
       "rating": 3,
-      "dateFinished": "Jul 4",
+      "dateFinished": "Jul 5",
       "yearFinished": "2021"
     },
     {
@@ -607,7 +647,7 @@
       "author": "Glenn Greenwald",
       "link": "https://www.goodreads.com/book/show/54750546",
       "rating": 3,
-      "dateFinished": "Jun 6",
+      "dateFinished": "Jun 7",
       "yearFinished": "2021"
     },
     {
@@ -615,7 +655,7 @@
       "author": "Art Spiegelman",
       "link": "https://www.goodreads.com/book/show/15197",
       "rating": 4,
-      "dateFinished": "May 16",
+      "dateFinished": "May 17",
       "yearFinished": "2021"
     },
     {
@@ -623,7 +663,7 @@
       "author": "Michael Crichton",
       "link": "https://www.goodreads.com/book/show/8650",
       "rating": 4,
-      "dateFinished": "May 9",
+      "dateFinished": "May 10",
       "yearFinished": "2021"
     },
     {
@@ -631,7 +671,7 @@
       "author": "Michael Crichton",
       "link": "https://www.goodreads.com/book/show/40604658",
       "rating": 4,
-      "dateFinished": "May 6",
+      "dateFinished": "May 7",
       "yearFinished": "2021"
     },
     {
@@ -639,7 +679,7 @@
       "author": "Matt Taibbi",
       "link": "https://www.goodreads.com/book/show/7897556",
       "rating": 5,
-      "dateFinished": "May 3",
+      "dateFinished": "May 4",
       "yearFinished": "2021"
     },
     {
@@ -647,7 +687,7 @@
       "author": "Jack London",
       "link": "https://www.goodreads.com/book/show/1852",
       "rating": 4,
-      "dateFinished": "Apr 25",
+      "dateFinished": "Apr 26",
       "yearFinished": "2021"
     },
     {
@@ -655,7 +695,7 @@
       "author": "Khaled Hosseini",
       "link": "https://www.goodreads.com/book/show/128029",
       "rating": 5,
-      "dateFinished": "Apr 23",
+      "dateFinished": "Apr 24",
       "yearFinished": "2021"
     },
     {
@@ -663,7 +703,7 @@
       "author": "Christopher Moore",
       "link": "https://www.goodreads.com/book/show/33456",
       "rating": 4,
-      "dateFinished": "Apr 17",
+      "dateFinished": "Apr 18",
       "yearFinished": "2021"
     },
     {
@@ -671,7 +711,7 @@
       "author": "Vincent Bevins",
       "link": "https://www.goodreads.com/book/show/53054943",
       "rating": 5,
-      "dateFinished": "Mar 7",
+      "dateFinished": "Mar 8",
       "yearFinished": "2021"
     },
     {
@@ -679,7 +719,7 @@
       "author": "Cal Newport",
       "link": "https://www.goodreads.com/book/show/253197",
       "rating": 3,
-      "dateFinished": "Mar 26",
+      "dateFinished": "Mar 27",
       "yearFinished": "2021"
     },
     {
@@ -687,7 +727,7 @@
       "author": "Glenn Greenwald",
       "link": "https://www.goodreads.com/book/show/18213403",
       "rating": 4,
-      "dateFinished": "Feb 28",
+      "dateFinished": "Mar 1",
       "yearFinished": "2021"
     },
     {
@@ -695,7 +735,7 @@
       "author": "Robert B. Reich",
       "link": "https://www.goodreads.com/book/show/37506435",
       "rating": 2,
-      "dateFinished": "Feb 26",
+      "dateFinished": "Feb 27",
       "yearFinished": "2021"
     },
     {
@@ -703,15 +743,15 @@
       "author": "Lawrence Wright",
       "link": "https://www.goodreads.com/book/show/110890",
       "rating": 5,
-      "dateFinished": "Feb 18",
+      "dateFinished": "Feb 19",
       "yearFinished": "2021"
     },
     {
       "title": "The Rape of Nanking: The Forgotten Holocaust of World War II",
-      "author": "Iris Chang",
+      "author": "Iris Shun-Ru Chang",
       "link": "https://www.goodreads.com/book/show/95784",
       "rating": 5,
-      "dateFinished": "Feb 12",
+      "dateFinished": "Feb 13",
       "yearFinished": "2021"
     },
     {
@@ -719,7 +759,7 @@
       "author": "Albert Camus",
       "link": "https://www.goodreads.com/book/show/15682",
       "rating": 2,
-      "dateFinished": "Jan 8",
+      "dateFinished": "Jan 9",
       "yearFinished": "2021"
     },
     {
@@ -727,7 +767,7 @@
       "author": "Gabriel García Márquez",
       "link": "https://www.goodreads.com/book/show/23878",
       "rating": 4,
-      "dateFinished": "Dec 28",
+      "dateFinished": "Dec 29",
       "yearFinished": "2020"
     },
     {
@@ -735,7 +775,7 @@
       "author": "Nick Bostrom",
       "link": "https://www.goodreads.com/book/show/20257294",
       "rating": 5,
-      "dateFinished": "Dec 26",
+      "dateFinished": "Dec 27",
       "yearFinished": "2020"
     },
     {
@@ -743,7 +783,7 @@
       "author": "Anthony Burgess",
       "link": "https://www.goodreads.com/book/show/41817486",
       "rating": 2,
-      "dateFinished": "Dec 26",
+      "dateFinished": "Dec 27",
       "yearFinished": "2020"
     },
     {
@@ -751,7 +791,7 @@
       "author": "John  Green",
       "link": "https://www.goodreads.com/book/show/35504431",
       "rating": 3,
-      "dateFinished": "Dec 25",
+      "dateFinished": "Dec 26",
       "yearFinished": "2020"
     },
     {
@@ -759,7 +799,7 @@
       "author": "Alison Bechdel",
       "link": "https://www.goodreads.com/book/show/38990",
       "rating": 3,
-      "dateFinished": "Dec 14",
+      "dateFinished": "Dec 15",
       "yearFinished": "2020"
     },
     {
@@ -767,7 +807,7 @@
       "author": "Gabriel García Márquez",
       "link": "https://www.goodreads.com/book/show/320",
       "rating": 5,
-      "dateFinished": "Dec 13",
+      "dateFinished": "Dec 14",
       "yearFinished": "2020"
     },
     {
@@ -775,7 +815,7 @@
       "author": "Aldous Huxley",
       "link": "https://www.goodreads.com/book/show/5481",
       "rating": 3,
-      "dateFinished": "Dec 11",
+      "dateFinished": "Dec 12",
       "yearFinished": "2020"
     },
     {
@@ -783,7 +823,7 @@
       "author": "Aldous Huxley",
       "link": "https://www.goodreads.com/book/show/5129",
       "rating": 4,
-      "dateFinished": "Dec 10",
+      "dateFinished": "Dec 11",
       "yearFinished": "2020"
     },
     {
@@ -791,7 +831,7 @@
       "author": "George Orwell",
       "link": "https://www.goodreads.com/book/show/40961427",
       "rating": 4,
-      "dateFinished": "Nov 4",
+      "dateFinished": "Nov 5",
       "yearFinished": "2020"
     },
     {
@@ -799,7 +839,7 @@
       "author": "Yana Weinstein",
       "link": "https://www.goodreads.com/book/show/39230505",
       "rating": 5,
-      "dateFinished": "Dec 8",
+      "dateFinished": "Dec 9",
       "yearFinished": "2020"
     },
     {
@@ -807,8 +847,1032 @@
       "author": "Franz Kafka",
       "link": "https://www.goodreads.com/book/show/485894",
       "rating": 3,
-      "dateFinished": "Dec 7",
+      "dateFinished": "Dec 8",
       "yearFinished": "2020"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",
+      "author": "Douglas Adams",
+      "link": "https://www.goodreads.com/book/show/11",
+      "rating": 4,
+      "dateFinished": "Oct 29",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Sixth Extinction: An Unnatural History",
+      "author": "Elizabeth Kolbert",
+      "link": "https://www.goodreads.com/book/show/17910054",
+      "rating": 4,
+      "dateFinished": "Oct 22",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Sibley's Birding Basics (Sibley Guides)",
+      "author": "David Allen Sibley",
+      "link": "https://www.goodreads.com/book/show/368863",
+      "rating": 3,
+      "dateFinished": "Oct 26",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "link": "https://www.goodreads.com/book/show/157993",
+      "rating": 5,
+      "dateFinished": "Jun 28",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Howl's Moving Castle (Howl's Moving Castle, #1)",
+      "author": "Diana Wynne Jones",
+      "link": "https://www.goodreads.com/book/show/6294",
+      "rating": 3,
+      "dateFinished": "Oct 23",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "A Farewell to Arms",
+      "author": "Ernest Hemingway",
+      "link": "https://www.goodreads.com/book/show/10799",
+      "rating": 2,
+      "dateFinished": "Oct 17",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakami",
+      "link": "https://www.goodreads.com/book/show/11275",
+      "rating": 5,
+      "dateFinished": "Jun 29",
+      "yearFinished": "2019"
+    },
+    {
+      "title": "After Net Neutrality: A New Deal for the Digital Age (The Future Series)",
+      "author": "Victor Pickard",
+      "link": "https://www.goodreads.com/book/show/44310189",
+      "rating": 4,
+      "dateFinished": "Oct 9",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "link": "https://www.goodreads.com/book/show/23692271",
+      "rating": 4,
+      "dateFinished": "Apr 21",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Maus I: Un Survivant Raconte: Mon Père Saigne L'histoire",
+      "author": "Art Spiegelman",
+      "link": "https://www.goodreads.com/book/show/40490167",
+      "rating": 4,
+      "dateFinished": "Jul 3",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut Jr.",
+      "link": "https://www.goodreads.com/book/show/4981",
+      "rating": 4,
+      "dateFinished": "Jun 26",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Starship Troopers",
+      "author": "Robert A. Heinlein",
+      "link": "https://www.goodreads.com/book/show/17214",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "link": "https://www.goodreads.com/book/show/61535",
+      "rating": 5,
+      "dateFinished": "Jul 21",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "link": "https://www.goodreads.com/book/show/2165",
+      "rating": 5,
+      "dateFinished": "Jul 30",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Inherit the Wind",
+      "author": "Jerome Lawrence",
+      "link": "https://www.goodreads.com/book/show/253264",
+      "rating": 5,
+      "dateFinished": "Jul 31",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "What Is the What",
+      "author": "Dave Eggers",
+      "link": "https://www.goodreads.com/book/show/4952",
+      "rating": 5,
+      "dateFinished": "Mar 11",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Locking Up Our Own: Crime and Punishment in Black America",
+      "author": "James Forman Jr.",
+      "link": "https://www.goodreads.com/book/show/34846249",
+      "rating": 5,
+      "dateFinished": "Apr 26",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Color Purple (The Color Purple, #1)",
+      "author": "Alice Walker",
+      "link": "https://www.goodreads.com/book/show/11486",
+      "rating": 4,
+      "dateFinished": "Sep 25",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Origins of Political Order: From Prehuman Times to the French Revolution",
+      "author": "Francis Fukuyama",
+      "link": "https://www.goodreads.com/book/show/9704856",
+      "rating": 4,
+      "dateFinished": "Sep 19",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Night",
+      "author": "Elie Wiesel",
+      "link": "https://www.goodreads.com/book/show/1617",
+      "rating": 5,
+      "dateFinished": "Sep 8",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Death of a Salesman",
+      "author": "Arthur Miller",
+      "link": "https://www.goodreads.com/book/show/12898",
+      "rating": 4,
+      "dateFinished": "Aug 2",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Chains (Seeds of America, #1)",
+      "author": "Laurie Halse Anderson",
+      "link": "https://www.goodreads.com/book/show/3002300",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Martian Chronicles",
+      "author": "Ray Bradbury",
+      "link": "https://www.goodreads.com/book/show/76778",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "A Clean Well-Lighted Place",
+      "author": "Ernest Hemingway",
+      "link": "https://www.goodreads.com/book/show/553930",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Cat’s Cradle",
+      "author": "Kurt Vonnegut Jr.",
+      "link": "https://www.goodreads.com/book/show/135479",
+      "rating": 4,
+      "dateFinished": "Jul 23",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Master Harold and the Boys",
+      "author": "Athol Fugard",
+      "link": "https://www.goodreads.com/book/show/22362048",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2018"
+    },
+    {
+      "title": "Cry, the Beloved Country",
+      "author": "Alan Paton",
+      "link": "https://www.goodreads.com/book/show/6150",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2018"
+    },
+    {
+      "title": "Socialism: Utopian and Scientific",
+      "author": "Friedrich Engels",
+      "link": "https://www.goodreads.com/book/show/188897",
+      "rating": 4,
+      "dateFinished": "Jul 10",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Diamond of Darkhold (Book of Ember, #4)",
+      "author": "Jeanne DuPrau",
+      "link": "https://www.goodreads.com/book/show/2493973",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Prophet of Yonwood (Book of Ember, #3)",
+      "author": "Jeanne DuPrau",
+      "link": "https://www.goodreads.com/book/show/207034",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The People of Sparks (Book of Ember, #2)",
+      "author": "Jeanne DuPrau",
+      "link": "https://www.goodreads.com/book/show/3467",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The City of Ember (Book of Ember, #1)",
+      "author": "Jeanne DuPrau",
+      "link": "https://www.goodreads.com/book/show/307791",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Ghost in the Tokaido Inn (Samurai Detective, #1)",
+      "author": "Dorothy Hoobler",
+      "link": "https://www.goodreads.com/book/show/827500",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2015"
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "link": "https://www.goodreads.com/book/show/168668",
+      "rating": 4,
+      "dateFinished": "Jul 3",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Wonder (Wonder, #1)",
+      "author": "R.J. Palacio",
+      "link": "https://www.goodreads.com/book/show/11387515",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Allegiant (Divergent, #3)",
+      "author": "Veronica Roth",
+      "link": "https://www.goodreads.com/book/show/18710190",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Insurgent (Divergent, #2)",
+      "author": "Veronica Roth",
+      "link": "https://www.goodreads.com/book/show/11735983",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Da Vinci Code (Robert Langdon, #2)",
+      "author": "Dan    Brown",
+      "link": "https://www.goodreads.com/book/show/968",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Divergent (Divergent, #1)",
+      "author": "Veronica Roth",
+      "link": "https://www.goodreads.com/book/show/13335037",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Aesop’s Fables",
+      "author": "Aesop",
+      "link": "https://www.goodreads.com/book/show/21348",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2010"
+    },
+    {
+      "title": "The Crucible",
+      "author": "Arthur Miller",
+      "link": "https://www.goodreads.com/book/show/17250",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2019"
+    },
+    {
+      "title": "Like Water for Chocolate",
+      "author": "Laura Esquivel",
+      "link": "https://www.goodreads.com/book/show/6952",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2017"
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "link": "https://www.goodreads.com/book/show/18007564",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Balzac and the Little Chinese Seamstress",
+      "author": "Dai Sijie",
+      "link": "https://www.goodreads.com/book/show/533465",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2017"
+    },
+    {
+      "title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+      "author": "C.S. Lewis",
+      "link": "https://www.goodreads.com/book/show/100915",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Matilda",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/39988",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "link": "https://www.goodreads.com/book/show/6493208",
+      "rating": 0,
+      "dateFinished": "Dec 1",
+      "yearFinished": "2017"
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "link": "https://www.goodreads.com/book/show/49552",
+      "rating": 0,
+      "dateFinished": "Nov 1",
+      "yearFinished": "2019"
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "link": "https://www.goodreads.com/book/show/19543",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2009"
+    },
+    {
+      "title": "Where the Sidewalk Ends",
+      "author": "Shel Silverstein",
+      "link": "https://www.goodreads.com/book/show/30119",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2008"
+    },
+    {
+      "title": "The Giving Tree",
+      "author": "Shel Silverstein",
+      "link": "https://www.goodreads.com/book/show/370493",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2008"
+    },
+    {
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "link": "https://www.goodreads.com/book/show/18135",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2017"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John  Green",
+      "link": "https://www.goodreads.com/book/show/11870085",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Cuba: A New History",
+      "author": "Richard Gott",
+      "link": "https://www.goodreads.com/book/show/10429",
+      "rating": 0,
+      "dateFinished": "Jun 6",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Letter to a Christian Nation",
+      "author": "Sam Harris",
+      "link": "https://www.goodreads.com/book/show/51299",
+      "rating": 0,
+      "dateFinished": "Jun 25",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx",
+      "link": "https://www.goodreads.com/book/show/30474",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Children in Room E4: American Education on Trial",
+      "author": "Susan Eaton",
+      "link": "https://www.goodreads.com/book/show/142958",
+      "rating": 4,
+      "dateFinished": "Jun 13",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Mockingjay (The Hunger Games, #3)",
+      "author": "Suzanne Collins",
+      "link": "https://www.goodreads.com/book/show/7260188",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Catching Fire (The Hunger Games, #2)",
+      "author": "Suzanne Collins",
+      "link": "https://www.goodreads.com/book/show/6148028",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "link": "https://www.goodreads.com/book/show/890",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2017"
+    },
+    {
+      "title": "The Hunger Games (The Hunger Games, #1)",
+      "author": "Suzanne Collins",
+      "link": "https://www.goodreads.com/book/show/2767052",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Giver (Giver, #1)",
+      "author": "Lois Lowry",
+      "link": "https://www.goodreads.com/book/show/3636",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "link": "https://www.goodreads.com/book/show/7624",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "link": "https://www.goodreads.com/book/show/1885",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Industrial Society and Its Future",
+      "author": "Theodore John Kaczynski",
+      "link": "https://www.goodreads.com/book/show/225468",
+      "rating": 4,
+      "dateFinished": "Jun 10",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "How to Tell If Your Cat Is Plotting to Kill You",
+      "author": "Matthew Inman",
+      "link": "https://www.goodreads.com/book/show/15799936",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "James and the Giant Peach",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6689",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6693",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Boy: Tales of Childhood (Roald Dahl's Autobiography, #1)",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6667",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Giraffe and the Pelly and Me",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6694",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Going Solo (Roald Dahl's Autobiography, #2)",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6678",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Twits",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/31456",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Charlie and the Chocolate Factory (Charlie Bucket, #1)",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6310",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Esio Trot",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/194755",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Danny the Champion of the World",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6690",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Charlie and the Great Glass Elevator (Charlie Bucket, #2)",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6687",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Witches",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6327",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The BFG",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/6319",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "George's Marvellous Medicine",
+      "author": "Roald Dahl",
+      "link": "https://www.goodreads.com/book/show/74532",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Percy Jackson & the Olympians:  The Ultimate Guide",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/6654104",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Dangerous Book for Boys",
+      "author": "Conn Iggulden",
+      "link": "https://www.goodreads.com/book/show/204097",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Phil Gordon's Little Green Book: Lessons and Teachings in No Limit Texas Hold'em",
+      "author": "Phil Gordon",
+      "link": "https://www.goodreads.com/book/show/3112",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Legend (Legend, #1)",
+      "author": "Marie Lu",
+      "link": "https://www.goodreads.com/book/show/9275658",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Colossus Rises (Seven Wonders, #1)",
+      "author": "Peter Lerangis",
+      "link": "https://www.goodreads.com/book/show/16061340",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The House of Hades (The Heroes of Olympus, #4)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/12127810",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Mark of Athena (The Heroes of Olympus, #3)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/12127750",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Son of Neptune (The Heroes of Olympus, #2)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/9520360",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Lost Hero (The Heroes of Olympus, #1)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/7736182",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/4502507",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Titan’s Curse (Percy Jackson and the Olympians, #3)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/561456",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/28186",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/2120932",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+      "author": "Rick Riordan",
+      "link": "https://www.goodreads.com/book/show/28187",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+      "author": "J.K. Rowling",
+      "link": "https://www.goodreads.com/book/show/15881",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "author": "J.K. Rowling",
+      "link": "https://www.goodreads.com/book/show/5",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "author": "J.K. Rowling",
+      "link": "https://www.goodreads.com/book/show/136251",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+      "author": "J.K. Rowling",
+      "link": "https://www.goodreads.com/book/show/1",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "author": "J.K. Rowling",
+      "link": "https://www.goodreads.com/book/show/2",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "author": "J.K. Rowling",
+      "link": "https://www.goodreads.com/book/show/6",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+      "author": "J.K. Rowling",
+      "link": "https://www.goodreads.com/book/show/3",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Itch: The Explosive Adventures of an Element Hunter (Itch, #1)",
+      "author": "Simon Mayo",
+      "link": "https://www.goodreads.com/book/show/15843377",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Russian Roulette (Alex Rider, #10)",
+      "author": "Anthony Horowitz",
+      "link": "https://www.goodreads.com/book/show/17465455",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Adventures of Tintin, Vol. 7: The Castafiore Emerald / Flight 714 to Sydney / Tintin and the Picaros",
+      "author": "Hergé",
+      "link": "https://www.goodreads.com/book/show/87422",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Adventures of Tintin, Vol. 6: The Calculus Affair / The Red Sea Sharks / Tintin in Tibet (3 Volumes in 1)",
+      "author": "Hergé",
+      "link": "https://www.goodreads.com/book/show/87423",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Adventures of Tintin, Vol. 5: Land of Black Gold / Destination Moon / Explorers on the Moon",
+      "author": "Hergé",
+      "link": "https://www.goodreads.com/book/show/87420",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Adventures of Tintin, Vol. 4: Red Rackham's Treasure / The Seven Crystal Balls / The Prisoners of the Sun",
+      "author": "Hergé",
+      "link": "https://www.goodreads.com/book/show/87421",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Adventures of Tintin, Vol. 3: The Crab With the Golden Claws / The Shooting Star / The Secret of the Unicorn (Tintin, #9-11)",
+      "author": "Hergé",
+      "link": "https://www.goodreads.com/book/show/77173",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Adventures of Tintin, Vol. 2: The Broken Ear / The Black Island / King Ottokar's Sceptre (Tintin, #6-8)",
+      "author": "Hergé",
+      "link": "https://www.goodreads.com/book/show/77172",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Adventures of Tintin, Vol. 1: Tintin in America / Cigars of the Pharaoh / The Blue Lotus (Tintin, #3-5)",
+      "author": "Hergé",
+      "link": "https://www.goodreads.com/book/show/77174",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Guest",
+      "author": "Albert Camus",
+      "link": "https://www.goodreads.com/book/show/205984",
+      "rating": 0,
+      "dateFinished": "Apr 27",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "link": "https://www.goodreads.com/book/show/7613",
+      "rating": 5,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "Mission Unstoppable (The Genius Files, #1)",
+      "author": "Dan Gutman",
+      "link": "https://www.goodreads.com/book/show/8514027",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Guardians of Ga'hoole Boxed Set: Books 1-4 (Guardians of Ga'hoole, #1-4)",
+      "author": "Kathryn Lasky",
+      "link": "https://www.goodreads.com/book/show/7025",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Tale of Despereaux",
+      "author": "Kate DiCamillo",
+      "link": "https://www.goodreads.com/book/show/37190",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Bridge to Terabithia",
+      "author": "Katherine Paterson",
+      "link": "https://www.goodreads.com/book/show/40940121",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Hatchet (Brian's Saga, #1)",
+      "author": "Gary Paulsen",
+      "link": "https://www.goodreads.com/book/show/50",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Looking for Alaska",
+      "author": "John  Green",
+      "link": "https://www.goodreads.com/book/show/99561",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "link": "https://www.goodreads.com/book/show/2657",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2016"
+    },
+    {
+      "title": "Holes (Holes, #1)",
+      "author": "Louis Sachar",
+      "link": "https://www.goodreads.com/book/show/38709",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "link": "https://www.goodreads.com/book/show/6149",
+      "rating": 0,
+      "dateFinished": "Mar 9",
+      "yearFinished": "2020"
+    },
+    {
+      "title": "The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future",
+      "author": "Andrew   Yang",
+      "link": "https://www.goodreads.com/book/show/36204293",
+      "rating": 4,
+      "dateFinished": "Oct 4",
+      "yearFinished": "2019"
+    },
+    {
+      "title": "The Solar Anus",
+      "author": "Georges Bataille",
+      "link": "https://www.goodreads.com/book/show/2576146",
+      "rating": 4,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "1Q84 (1Q84, #1-3)",
+      "author": "Haruki Murakami",
+      "link": "https://www.goodreads.com/book/show/10357575",
+      "rating": 4,
+      "dateFinished": "Jul 16",
+      "yearFinished": "2019"
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "link": "https://www.goodreads.com/book/show/19063",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "link": "https://www.goodreads.com/book/show/5107",
+      "rating": 0,
+      "dateFinished": "Jan 1",
+      "yearFinished": "2018"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "link": "https://www.goodreads.com/book/show/4671",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "link": "https://www.goodreads.com/book/show/77203",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
+    },
+    {
+      "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+      "author": "Randall Munroe",
+      "link": "https://www.goodreads.com/book/show/21413662",
+      "rating": 0,
+      "dateFinished": "",
+      "yearFinished": "Prior"
     }
   ]
 }
