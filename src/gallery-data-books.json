@@ -1,15 +1,23 @@
 {
   "currentlyReading": [
     {
-      "title": "The Magus",
-      "author": "John Fowles",
-      "link": "https://www.goodreads.com/book/show/16286",
+      "title": "The Best and the Brightest",
+      "author": "David Halberstam",
+      "link": "https://www.goodreads.com/book/show/16147275",
       "rating": 0,
       "dateFinished": "",
       "yearFinished": "Prior"
     }
   ],
   "read": [
+    {
+      "title": "The Magus",
+      "author": "John Fowles",
+      "link": "https://www.goodreads.com/book/show/16286",
+      "rating": 5,
+      "dateFinished": "Nov 7",
+      "yearFinished": "2026"
+    },
     {
       "title": "Black Hawk Down: A Story of Modern War",
       "author": "Mark Bowden",
